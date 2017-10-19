@@ -11,4 +11,5 @@
 
 ## 3.model
 - [xgb+lgb kfold LB 0.282](https://www.kaggle.com/rshally/porto-xgb-lgb-kfold-lb-0-282)
+- [Forza Baseline - Catboost Example](https://www.kaggle.com/the1owl/forza-baseline-catboost-example?scriptVersionId=1630224/code)
 
