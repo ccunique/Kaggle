@@ -9,7 +9,10 @@
 - [Reconstruction of 'ps_reg_03'](https://www.kaggle.com/pnagel/reconstruction-of-ps-reg-03)
 
 
-## 3.model
+## 3.model_xgboost/lightgbm
 - [xgb+lgb kfold LB 0.282](https://www.kaggle.com/rshally/porto-xgb-lgb-kfold-lb-0-282)
-- [Forza Baseline - Catboost Example](https://www.kaggle.com/the1owl/forza-baseline-catboost-example?scriptVersionId=1630224/code)
+- [Stratified KFold+XGBoost+EDA Tutorial(0.281)](https://www.kaggle.com/sudosudoohio/stratified-kfold-xgboost-eda-tutorial-0-281)
+- [Simple XGBoost BTB (0.27+)](https://www.kaggle.com/anokas/simple-xgboost-btb-0-27)
 
+## 4.model_catboost
+- [Forza Baseline - Catboost Example](https://www.kaggle.com/the1owl/forza-baseline-catboost-example?scriptVersionId=1630224/code)
