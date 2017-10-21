@@ -17,5 +17,9 @@
 ## 4.model_catboost
 - [Forza Baseline - Catboost Example](https://www.kaggle.com/the1owl/forza-baseline-catboost-example?scriptVersionId=1630224/code)
 
-## 5.discussion
+
+## 5.model ensemble
+- [Simple Stacker LB 0.284](https://www.kaggle.com/yekenot/simple-stacker-lb-0-284)
+
+## 6.discussion
 - [How did people with .283 and above manage to get a high score](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/discussion/40760)
