@@ -23,3 +23,4 @@
 
 ## 6.discussion
 - [How did people with .283 and above manage to get a high score](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/discussion/40760)
+- [Stacking - LB 0.285](https://www.kaggle.com/pavetr/stacking-lb-0-285)
