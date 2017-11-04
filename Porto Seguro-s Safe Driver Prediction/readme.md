@@ -9,18 +9,14 @@
 - [Reconstruction of 'ps_reg_03'](https://www.kaggle.com/pnagel/reconstruction-of-ps-reg-03)
 
 
-## 3.model_xgboost/lightgbm
+## 3.model_xgboost/lightgbm/catboost
 - [xgb+lgb kfold LB 0.282](https://www.kaggle.com/rshally/porto-xgb-lgb-kfold-lb-0-282):average ensemble by cv with 2 models
 - [Stratified KFold+XGBoost+EDA Tutorial(0.281)](https://www.kaggle.com/sudosudoohio/stratified-kfold-xgboost-eda-tutorial-0-281):average ensemble by cv
-
-
-## 4.model_catboost
 - [Forza Baseline - Catboost Example](https://www.kaggle.com/the1owl/forza-baseline-catboost-example?scriptVersionId=1630224/code)
 
 
-## 5.model ensemble
+## 4.model ensemble
 - [Simple Stacker LB 0.284](https://www.kaggle.com/yekenot/simple-stacker-lb-0-284)
+- [xgboost cv LB 0.284](https://www.kaggle.com/aharless/xgboost-cv-lb-284)
 
-## 6.discussion
-- [How did people with .283 and above manage to get a high score](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/discussion/40760)
-- [Stacking - LB 0.285](https://www.kaggle.com/pavetr/stacking-lb-0-285)
+
