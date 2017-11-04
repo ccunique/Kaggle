@@ -17,6 +17,7 @@
 
 ## 4.model ensemble
 - [Simple Stacker LB 0.284](https://www.kaggle.com/yekenot/simple-stacker-lb-0-284)
+- [XGB classifier, upsampling LB 0.283](https://www.kaggle.com/ogrellier/xgb-classifier-upsampling-lb-0-283/code)
 - [xgboost cv LB 0.284](https://www.kaggle.com/aharless/xgboost-cv-lb-284)
 
 
