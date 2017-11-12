@@ -21,5 +21,6 @@
 - [Simple Stacker LB 0.284](https://www.kaggle.com/yekenot/simple-stacker-lb-0-284)
 - [XGB classifier, upsampling LB 0.283](https://www.kaggle.com/ogrellier/xgb-classifier-upsampling-lb-0-283/code)
 - [xgboost cv LB 0.284](https://www.kaggle.com/aharless/xgboost-cv-lb-284)
+- [0.285(LB) - Average of (3XGBoost, LightGBM, NN)](https://www.kaggle.com/pluchme/0-285-lb-average-of-3xgboost-lightgbm-nn)
 
 
