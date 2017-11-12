@@ -14,6 +14,7 @@
 - [Stratified KFold+XGBoost+EDA Tutorial(0.281)](https://www.kaggle.com/sudosudoohio/stratified-kfold-xgboost-eda-tutorial-0-281):average ensemble by cv
 - [Forza Baseline - Catboost Example](https://www.kaggle.com/the1owl/forza-baseline-catboost-example?scriptVersionId=1630224/code)
 - [Shallow Keras NN With Upsampling .27+ LB](https://www.kaggle.com/aquatic/shallow-keras-nn-with-upsampling-27-lb/code)
+- [Simple Keras MLP](https://www.kaggle.com/akashdeepjassal/simple-keras-mlp/code)
 
 
 ## 4.model ensemble
