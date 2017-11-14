@@ -7,6 +7,7 @@
 
 ## 2.feature engineering
 - [Reconstruction of 'ps_reg_03'](https://www.kaggle.com/pnagel/reconstruction-of-ps-reg-03)
+- [Boruta feature elimination](https://www.kaggle.com/tilii7/boruta-feature-elimination)
 
 
 ## 3.model_xgboost/lightgbm/catboost/NN
