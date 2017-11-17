@@ -11,7 +11,6 @@
 ## 3.model xgboost/lightgbm/catboost/rgf
 - [xgb+lgb kfold LB 0.282](https://www.kaggle.com/rshally/porto-xgb-lgb-kfold-lb-0-282):average ensemble by cv with 2 models
 - [Forza Baseline - Catboost Example](https://www.kaggle.com/the1owl/forza-baseline-catboost-example?scriptVersionId=1630224/code)
-
 - [XGB classifier, upsampling LB 0.283](https://www.kaggle.com/ogrellier/xgb-classifier-upsampling-lb-0-283/code)
 - [xgboost cv LB 0.284](https://www.kaggle.com/aharless/xgboost-cv-lb-284)
 
@@ -20,6 +19,7 @@
 ## 4.model NN
 - [Shallow Keras NN With Upsampling .27+ LB](https://www.kaggle.com/aquatic/shallow-keras-nn-with-upsampling-27-lb/code)
 - [Simple Keras MLP](https://www.kaggle.com/akashdeepjassal/simple-keras-mlp/code)
+
 
 ## 5.model ensemble
 - [Simple Stacker LB 0.284](https://www.kaggle.com/yekenot/simple-stacker-lb-0-284)
