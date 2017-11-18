@@ -26,3 +26,5 @@
 - [0.285(LB) - Average of (3XGBoost, LightGBM, NN)](https://www.kaggle.com/pluchme/0-285-lb-average-of-3xgboost-lightgbm-nn)
 
 
+## 6.Some intresting discussion
+- [训练数据和测试数据的分布是否相同，相信本地cv还是pulic LB？](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/discussion/43453),其中提到了一种名为[adversarial validation](http://fastml.com/adversarial-validation-part-one/)的判断训练数据与测试数据分布是否相似的办法
