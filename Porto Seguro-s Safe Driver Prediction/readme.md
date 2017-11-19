@@ -13,7 +13,7 @@
 - [Forza Baseline - Catboost Example](https://www.kaggle.com/the1owl/forza-baseline-catboost-example?scriptVersionId=1630224/code)
 - [XGB classifier, upsampling LB 0.283](https://www.kaggle.com/ogrellier/xgb-classifier-upsampling-lb-0-283/code)
 - [xgboost cv LB 0.284](https://www.kaggle.com/aharless/xgboost-cv-lb-284)
-
+- [RGF with 17 nonlinear featuresL](https://www.kaggle.com/lscoelho/rgf-with-17-nonlinear-features/code)
 
 
 ## 4.model NN
