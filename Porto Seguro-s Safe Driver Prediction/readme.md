@@ -19,6 +19,7 @@
 ## 4.model NN
 - [Shallow Keras NN With Upsampling .27+ LB](https://www.kaggle.com/aquatic/shallow-keras-nn-with-upsampling-27-lb/code)
 - [Simple Keras MLP](https://www.kaggle.com/akashdeepjassal/simple-keras-mlp/code)
+- [Entity Embedding Neural Net](https://www.kaggle.com/aquatic/entity-embedding-neural-net/code)
 
 
 ## 5.model ensemble
