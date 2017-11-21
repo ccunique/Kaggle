@@ -14,6 +14,7 @@
 - [XGB classifier, upsampling LB 0.283](https://www.kaggle.com/ogrellier/xgb-classifier-upsampling-lb-0-283/code)
 - [xgboost cv LB 0.284](https://www.kaggle.com/aharless/xgboost-cv-lb-284)
 - [RGF + Target Encoding + Upsampling](https://www.kaggle.com/tunguz/rgf-target-encoding-0-282-on-lb)
+- [single xgb lb284](https://www.kaggle.com/xbf6xbf/single-xgb-lb284/code)
 
 
 ## 4.model NN
