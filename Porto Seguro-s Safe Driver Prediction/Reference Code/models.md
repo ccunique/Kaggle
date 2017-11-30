@@ -5,4 +5,4 @@
 
 
 ## 2. nn:
-- [2nd place solution NN model](https://www.kaggle.com/xiaozhouwang/2nd-place-solution-nn-model)
+- [2nd place solution NN model](https://www.kaggle.com/xiaozhouwang/2nd-place-solution-nn-model) and [discussions](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/discussion/44558)
