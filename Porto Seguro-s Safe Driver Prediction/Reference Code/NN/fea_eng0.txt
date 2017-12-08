@@ -1,0 +1,1717 @@
+ps_car_01_cat
+[0]	train-rmse:7.43991	valid-rmse:7.44387
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:2.30761	valid-rmse:2.31265
+[100]	train-rmse:2.29731	valid-rmse:2.30454
+[150]	train-rmse:2.29251	valid-rmse:2.30235
+[200]	train-rmse:2.28853	valid-rmse:2.30099
+[250]	train-rmse:2.28535	valid-rmse:2.30036
+[300]	train-rmse:2.28219	valid-rmse:2.2996
+[350]	train-rmse:2.27896	valid-rmse:2.29878
+Stopping. Best iteration:
+[343]	train-rmse:2.27927	valid-rmse:2.29876
+[0]	train-rmse:7.44112	valid-rmse:7.43921
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:2.30748	valid-rmse:2.31025
+[100]	train-rmse:2.29744	valid-rmse:2.30292
+[150]	train-rmse:2.2932	valid-rmse:2.30114
+[200]	train-rmse:2.28964	valid-rmse:2.3001
+[250]	train-rmse:2.28627	valid-rmse:2.29917
+[300]	train-rmse:2.28306	valid-rmse:2.29852
+[350]	train-rmse:2.27969	valid-rmse:2.29758
+[400]	train-rmse:2.27726	valid-rmse:2.29724
+[450]	train-rmse:2.27441	valid-rmse:2.29676
+Stopping. Best iteration:
+[462]	train-rmse:2.27362	valid-rmse:2.29658
+[0]	train-rmse:7.44129	valid-rmse:7.43747
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:2.3071	valid-rmse:2.31169
+[100]	train-rmse:2.29761	valid-rmse:2.30498
+[150]	train-rmse:2.2927	valid-rmse:2.30284
+[200]	train-rmse:2.28917	valid-rmse:2.30177
+[250]	train-rmse:2.2861	valid-rmse:2.30111
+[300]	train-rmse:2.28258	valid-rmse:2.29998
+[350]	train-rmse:2.27924	valid-rmse:2.29911
+[400]	train-rmse:2.27661	valid-rmse:2.29878
+[450]	train-rmse:2.27384	valid-rmse:2.29832
+[0]	train-rmse:7.44203	valid-rmse:7.44344
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:2.30647	valid-rmse:2.31566
+[100]	train-rmse:2.29605	valid-rmse:2.30725
+[150]	train-rmse:2.2916	valid-rmse:2.30518
+[200]	train-rmse:2.28813	valid-rmse:2.30413
+[250]	train-rmse:2.28454	valid-rmse:2.30299
+[300]	train-rmse:2.28141	valid-rmse:2.3024
+Stopping. Best iteration:
+[314]	train-rmse:2.28054	valid-rmse:2.30217
+[0]	train-rmse:7.44231	valid-rmse:7.44271
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:2.30992	valid-rmse:2.30255
+[100]	train-rmse:2.29911	valid-rmse:2.29363
+[150]	train-rmse:2.29513	valid-rmse:2.29188
+[200]	train-rmse:2.29146	valid-rmse:2.29073
+[250]	train-rmse:2.2877	valid-rmse:2.28942
+[300]	train-rmse:2.2845	valid-rmse:2.28851
+Stopping. Best iteration:
+[308]	train-rmse:2.28397	valid-rmse:2.2885
+ps_car_02_cat
+[0]	train-rmse:0.476379	valid-rmse:0.476457
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.352279	valid-rmse:0.353901
+[100]	train-rmse:0.35143	valid-rmse:0.353524
+[150]	train-rmse:0.350917	valid-rmse:0.353458
+Stopping. Best iteration:
+[189]	train-rmse:0.350525	valid-rmse:0.353402
+[0]	train-rmse:0.476382	valid-rmse:0.476427
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.352454	valid-rmse:0.353391
+[100]	train-rmse:0.351598	valid-rmse:0.352987
+[150]	train-rmse:0.351119	valid-rmse:0.35294
+Stopping. Best iteration:
+[140]	train-rmse:0.351189	valid-rmse:0.352932
+[0]	train-rmse:0.476356	valid-rmse:0.476472
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.352235	valid-rmse:0.354165
+[100]	train-rmse:0.351389	valid-rmse:0.353811
+[150]	train-rmse:0.350893	valid-rmse:0.353763
+Stopping. Best iteration:
+[180]	train-rmse:0.350615	valid-rmse:0.353734
+[0]	train-rmse:0.476289	valid-rmse:0.476154
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.352846	valid-rmse:0.351811
+[100]	train-rmse:0.351948	valid-rmse:0.351448
+[150]	train-rmse:0.351473	valid-rmse:0.351403
+Stopping. Best iteration:
+[168]	train-rmse:0.351281	valid-rmse:0.351376
+[0]	train-rmse:0.476264	valid-rmse:0.476192
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.352768	valid-rmse:0.352232
+[100]	train-rmse:0.351911	valid-rmse:0.351855
+[150]	train-rmse:0.35138	valid-rmse:0.351762
+Stopping. Best iteration:
+[151]	train-rmse:0.351373	valid-rmse:0.351761
+ps_car_03_cat
+[0]	train-rmse:1.1964	valid-rmse:1.19607
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.739056	valid-rmse:0.738854
+[100]	train-rmse:0.736053	valid-rmse:0.736514
+[150]	train-rmse:0.734802	valid-rmse:0.736062
+[200]	train-rmse:0.733849	valid-rmse:0.735822
+Stopping. Best iteration:
+[224]	train-rmse:0.733325	valid-rmse:0.73574
+[0]	train-rmse:1.19625	valid-rmse:1.1966
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.738846	valid-rmse:0.740095
+[100]	train-rmse:0.735746	valid-rmse:0.737749
+[150]	train-rmse:0.734493	valid-rmse:0.737338
+[200]	train-rmse:0.733423	valid-rmse:0.737121
+[250]	train-rmse:0.73255	valid-rmse:0.736976
+[300]	train-rmse:0.731689	valid-rmse:0.736889
+Stopping. Best iteration:
+[291]	train-rmse:0.731843	valid-rmse:0.736876
+[0]	train-rmse:1.19654	valid-rmse:1.1953
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.738675	valid-rmse:0.740306
+[100]	train-rmse:0.735737	valid-rmse:0.738177
+[150]	train-rmse:0.734439	valid-rmse:0.737714
+[200]	train-rmse:0.733477	valid-rmse:0.737533
+Stopping. Best iteration:
+[221]	train-rmse:0.733016	valid-rmse:0.737471
+[0]	train-rmse:1.19661	valid-rmse:1.19818
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.739197	valid-rmse:0.73857
+[100]	train-rmse:0.736378	valid-rmse:0.736574
+[150]	train-rmse:0.735047	valid-rmse:0.736111
+[200]	train-rmse:0.733985	valid-rmse:0.735911
+Stopping. Best iteration:
+[233]	train-rmse:0.733405	valid-rmse:0.735857
+[0]	train-rmse:1.1969	valid-rmse:1.1966
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.738659	valid-rmse:0.740711
+[100]	train-rmse:0.735639	valid-rmse:0.738531
+[150]	train-rmse:0.734343	valid-rmse:0.738124
+Stopping. Best iteration:
+[180]	train-rmse:0.733751	valid-rmse:0.73802
+ps_car_04_cat
+[0]	train-rmse:2.13916	valid-rmse:2.13895
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:1.98531	valid-rmse:1.99148
+[100]	train-rmse:1.97826	valid-rmse:1.9877
+[150]	train-rmse:1.97474	valid-rmse:1.98686
+[200]	train-rmse:1.97176	valid-rmse:1.98662
+Stopping. Best iteration:
+[221]	train-rmse:1.97021	valid-rmse:1.98652
+[0]	train-rmse:2.1382	valid-rmse:2.14326
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:1.98521	valid-rmse:1.9915
+[100]	train-rmse:1.97838	valid-rmse:1.98809
+[150]	train-rmse:1.97454	valid-rmse:1.9874
+[200]	train-rmse:1.97124	valid-rmse:1.98712
+Stopping. Best iteration:
+[218]	train-rmse:1.97004	valid-rmse:1.98702
+[0]	train-rmse:2.13544	valid-rmse:2.154
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:1.98279	valid-rmse:2.00182
+[100]	train-rmse:1.97601	valid-rmse:1.99823
+[150]	train-rmse:1.97225	valid-rmse:1.99733
+Stopping. Best iteration:
+[178]	train-rmse:1.97046	valid-rmse:1.99704
+[0]	train-rmse:2.14673	valid-rmse:2.12489
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:1.98953	valid-rmse:1.97464
+[100]	train-rmse:1.98234	valid-rmse:1.97097
+Stopping. Best iteration:
+[130]	train-rmse:1.98005	valid-rmse:1.9704
+[0]	train-rmse:2.14251	valid-rmse:2.14159
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:1.98586	valid-rmse:1.99037
+[100]	train-rmse:1.97902	valid-rmse:1.98679
+[150]	train-rmse:1.97555	valid-rmse:1.9863
+[200]	train-rmse:1.97223	valid-rmse:1.98587
+Stopping. Best iteration:
+[207]	train-rmse:1.97188	valid-rmse:1.98585
+ps_car_05_cat
+[0]	train-rmse:1.0234	valid-rmse:1.0245
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.769534	valid-rmse:0.770577
+[100]	train-rmse:0.765797	valid-rmse:0.767305
+[150]	train-rmse:0.764455	valid-rmse:0.766722
+[200]	train-rmse:0.763356	valid-rmse:0.766455
+Stopping. Best iteration:
+[231]	train-rmse:0.762741	valid-rmse:0.766345
+[0]	train-rmse:1.0237	valid-rmse:1.02495
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.769305	valid-rmse:0.771063
+[100]	train-rmse:0.765481	valid-rmse:0.767958
+[150]	train-rmse:0.764074	valid-rmse:0.767391
+[200]	train-rmse:0.763171	valid-rmse:0.767268
+[250]	train-rmse:0.762222	valid-rmse:0.767112
+Stopping. Best iteration:
+[273]	train-rmse:0.761794	valid-rmse:0.767058
+[0]	train-rmse:1.02417	valid-rmse:1.02278
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.769597	valid-rmse:0.769742
+[100]	train-rmse:0.765868	valid-rmse:0.76673
+[150]	train-rmse:0.764451	valid-rmse:0.766134
+[200]	train-rmse:0.763442	valid-rmse:0.76598
+Stopping. Best iteration:
+[195]	train-rmse:0.763519	valid-rmse:0.765974
+[0]	train-rmse:1.02635	valid-rmse:1.02609
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.769569	valid-rmse:0.769907
+[100]	train-rmse:0.765737	valid-rmse:0.76687
+[150]	train-rmse:0.764302	valid-rmse:0.766356
+Stopping. Best iteration:
+[182]	train-rmse:0.763609	valid-rmse:0.766156
+[0]	train-rmse:1.02663	valid-rmse:1.02601
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.769411	valid-rmse:0.769905
+[100]	train-rmse:0.765825	valid-rmse:0.766996
+[150]	train-rmse:0.764392	valid-rmse:0.76638
+[200]	train-rmse:0.763273	valid-rmse:0.766075
+Stopping. Best iteration:
+[209]	train-rmse:0.763138	valid-rmse:0.766065
+ps_car_06_cat
+[0]	train-rmse:7.73899	valid-rmse:7.73886
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:5.40859	valid-rmse:5.4182
+[100]	train-rmse:5.4001	valid-rmse:5.41595
+Stopping. Best iteration:
+[108]	train-rmse:5.39877	valid-rmse:5.41563
+[0]	train-rmse:7.7381	valid-rmse:7.74406
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:5.40921	valid-rmse:5.41506
+[100]	train-rmse:5.40066	valid-rmse:5.41271
+Stopping. Best iteration:
+[100]	train-rmse:5.40066	valid-rmse:5.41271
+[0]	train-rmse:7.73758	valid-rmse:7.74528
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:5.40961	valid-rmse:5.41622
+[100]	train-rmse:5.40108	valid-rmse:5.41357
+[150]	train-rmse:5.39461	valid-rmse:5.41289
+Stopping. Best iteration:
+[159]	train-rmse:5.39335	valid-rmse:5.41281
+[0]	train-rmse:7.74129	valid-rmse:7.72512
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:5.41037	valid-rmse:5.41376
+[100]	train-rmse:5.40071	valid-rmse:5.41123
+Stopping. Best iteration:
+[129]	train-rmse:5.39706	valid-rmse:5.4109
+[0]	train-rmse:7.73776	valid-rmse:7.74085
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:5.40893	valid-rmse:5.41935
+[100]	train-rmse:5.40024	valid-rmse:5.41673
+Stopping. Best iteration:
+[136]	train-rmse:5.39608	valid-rmse:5.41621
+ps_car_07_cat
+[0]	train-rmse:0.499939	valid-rmse:0.500965
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.288083	valid-rmse:0.290118
+[100]	train-rmse:0.287161	valid-rmse:0.289634
+Stopping. Best iteration:
+[131]	train-rmse:0.286812	valid-rmse:0.289583
+[0]	train-rmse:0.50002	valid-rmse:0.500676
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.288186	valid-rmse:0.289886
+[100]	train-rmse:0.287244	valid-rmse:0.289381
+[150]	train-rmse:0.286714	valid-rmse:0.2893
+Stopping. Best iteration:
+[170]	train-rmse:0.286513	valid-rmse:0.289273
+[0]	train-rmse:0.500232	valid-rmse:0.499879
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.288281	valid-rmse:0.288995
+[100]	train-rmse:0.287289	valid-rmse:0.288634
+Stopping. Best iteration:
+[98]	train-rmse:0.287316	valid-rmse:0.288632
+[0]	train-rmse:0.500354	valid-rmse:0.499814
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.288733	valid-rmse:0.288068
+[100]	train-rmse:0.287734	valid-rmse:0.287671
+[150]	train-rmse:0.287201	valid-rmse:0.287631
+Stopping. Best iteration:
+[171]	train-rmse:0.286971	valid-rmse:0.287608
+[0]	train-rmse:0.500411	valid-rmse:0.499653
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.288718	valid-rmse:0.287943
+[100]	train-rmse:0.287694	valid-rmse:0.287411
+[150]	train-rmse:0.28711	valid-rmse:0.287295
+Stopping. Best iteration:
+[153]	train-rmse:0.287087	valid-rmse:0.287286
+ps_car_08_cat
+[0]	train-rmse:0.475286	valid-rmse:0.475343
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.348739	valid-rmse:0.350035
+[100]	train-rmse:0.348214	valid-rmse:0.349947
+Stopping. Best iteration:
+[111]	train-rmse:0.348111	valid-rmse:0.349943
+[0]	train-rmse:0.475308	valid-rmse:0.475244
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.349028	valid-rmse:0.349021
+[100]	train-rmse:0.348531	valid-rmse:0.348897
+Stopping. Best iteration:
+[120]	train-rmse:0.34838	valid-rmse:0.348883
+[0]	train-rmse:0.47531	valid-rmse:0.4753
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.348959	valid-rmse:0.34925
+[100]	train-rmse:0.348467	valid-rmse:0.349169
+Stopping. Best iteration:
+[91]	train-rmse:0.348542	valid-rmse:0.349167
+[0]	train-rmse:0.478007	valid-rmse:0.477975
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.348915	valid-rmse:0.349409
+Stopping. Best iteration:
+[80]	train-rmse:0.348522	valid-rmse:0.349282
+[0]	train-rmse:0.477983	valid-rmse:0.478017
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.348911	valid-rmse:0.349548
+Stopping. Best iteration:
+[78]	train-rmse:0.348549	valid-rmse:0.349428
+ps_car_09_cat
+[0]	train-rmse:1.22533	valid-rmse:1.22552
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.918738	valid-rmse:0.917277
+[100]	train-rmse:0.914375	valid-rmse:0.913804
+[150]	train-rmse:0.912538	valid-rmse:0.912993
+[200]	train-rmse:0.911225	valid-rmse:0.912653
+Stopping. Best iteration:
+[228]	train-rmse:0.910667	valid-rmse:0.912584
+[0]	train-rmse:1.22496	valid-rmse:1.22737
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.918499	valid-rmse:0.918367
+[100]	train-rmse:0.914541	valid-rmse:0.915092
+[150]	train-rmse:0.912773	valid-rmse:0.914185
+[200]	train-rmse:0.911442	valid-rmse:0.913775
+Stopping. Best iteration:
+[219]	train-rmse:0.911093	valid-rmse:0.913682
+[0]	train-rmse:1.22497	valid-rmse:1.22585
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.917864	valid-rmse:0.9195
+[100]	train-rmse:0.913728	valid-rmse:0.916292
+[150]	train-rmse:0.911949	valid-rmse:0.915581
+[200]	train-rmse:0.910744	valid-rmse:0.915265
+[250]	train-rmse:0.909572	valid-rmse:0.91506
+Stopping. Best iteration:
+[264]	train-rmse:0.909291	valid-rmse:0.914999
+[0]	train-rmse:1.22808	valid-rmse:1.22637
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.918187	valid-rmse:0.920902
+[100]	train-rmse:0.913655	valid-rmse:0.917312
+[150]	train-rmse:0.911789	valid-rmse:0.916413
+[200]	train-rmse:0.910561	valid-rmse:0.916114
+[250]	train-rmse:0.909341	valid-rmse:0.915826
+Stopping. Best iteration:
+[276]	train-rmse:0.908785	valid-rmse:0.915676
+[0]	train-rmse:1.22812	valid-rmse:1.22643
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.918303	valid-rmse:0.919626
+[100]	train-rmse:0.913961	valid-rmse:0.916155
+[150]	train-rmse:0.912291	valid-rmse:0.915394
+[200]	train-rmse:0.911073	valid-rmse:0.915184
+[250]	train-rmse:0.90975	valid-rmse:0.914849
+Stopping. Best iteration:
+[270]	train-rmse:0.909361	valid-rmse:0.914822
+ps_car_10_cat
+[0]	train-rmse:0.452241	valid-rmse:0.452395
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.090857	valid-rmse:0.092152
+Stopping. Best iteration:
+[72]	train-rmse:0.09078	valid-rmse:0.092125
+[0]	train-rmse:0.452286	valid-rmse:0.452264
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.091048	valid-rmse:0.091419
+Stopping. Best iteration:
+[65]	train-rmse:0.090982	valid-rmse:0.091391
+[0]	train-rmse:0.452301	valid-rmse:0.452265
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.091727	valid-rmse:0.088638
+Stopping. Best iteration:
+[77]	train-rmse:0.09163	valid-rmse:0.088591
+[0]	train-rmse:0.452286	valid-rmse:0.452231
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.090941	valid-rmse:0.09184
+Stopping. Best iteration:
+[64]	train-rmse:0.090878	valid-rmse:0.091816
+[0]	train-rmse:0.452279	valid-rmse:0.452238
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.090879	valid-rmse:0.092082
+Stopping. Best iteration:
+[89]	train-rmse:0.090751	valid-rmse:0.092045
+ps_car_11_cat
+[0]	train-rmse:64.6278	valid-rmse:64.6003
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:32.6914	valid-rmse:32.7576
+Stopping. Best iteration:
+[63]	train-rmse:32.6785	valid-rmse:32.7548
+[0]	train-rmse:64.636	valid-rmse:64.5606
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:32.6968	valid-rmse:32.7393
+Stopping. Best iteration:
+[72]	train-rmse:32.6763	valid-rmse:32.7366
+[0]	train-rmse:64.6189	valid-rmse:64.6375
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:32.6931	valid-rmse:32.7464
+Stopping. Best iteration:
+[71]	train-rmse:32.6732	valid-rmse:32.7426
+[0]	train-rmse:64.6128	valid-rmse:64.6729
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:32.6906	valid-rmse:32.7617
+[100]	train-rmse:32.6491	valid-rmse:32.7565
+Stopping. Best iteration:
+[118]	train-rmse:32.6365	valid-rmse:32.7558
+[0]	train-rmse:64.6202	valid-rmse:64.6474
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:32.7062	valid-rmse:32.6863
+Stopping. Best iteration:
+[84]	train-rmse:32.6796	valid-rmse:32.6813
+ps_car_11
+[0]	train-rmse:1.85686	valid-rmse:1.85899
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.812518	valid-rmse:0.812693
+[100]	train-rmse:0.81113	valid-rmse:0.812353
+Stopping. Best iteration:
+[92]	train-rmse:0.811306	valid-rmse:0.812345
+[0]	train-rmse:1.85748	valid-rmse:1.85636
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.812384	valid-rmse:0.813293
+[100]	train-rmse:0.810886	valid-rmse:0.812903
+Stopping. Best iteration:
+[99]	train-rmse:0.810897	valid-rmse:0.812901
+[0]	train-rmse:1.8573	valid-rmse:1.85713
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.812429	valid-rmse:0.812654
+[100]	train-rmse:0.81107	valid-rmse:0.812356
+Stopping. Best iteration:
+[100]	train-rmse:0.81107	valid-rmse:0.812356
+[0]	train-rmse:1.8575	valid-rmse:1.85717
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.811906	valid-rmse:0.815056
+[100]	train-rmse:0.810585	valid-rmse:0.814719
+Stopping. Best iteration:
+[134]	train-rmse:0.809917	valid-rmse:0.81465
+[0]	train-rmse:1.85757	valid-rmse:1.85712
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.812296	valid-rmse:0.813255
+[100]	train-rmse:0.811028	valid-rmse:0.812917
+Stopping. Best iteration:
+[108]	train-rmse:0.810884	valid-rmse:0.812905
+ps_car_12
+[0]	train-rmse:0.122397	valid-rmse:0.12223
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.052244	valid-rmse:0.052074
+[100]	train-rmse:0.052076	valid-rmse:0.051969
+[150]	train-rmse:0.051987	valid-rmse:0.05194
+Stopping. Best iteration:
+[155]	train-rmse:0.05198	valid-rmse:0.051938
+[0]	train-rmse:0.122361	valid-rmse:0.122381
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.052228	valid-rmse:0.052152
+[100]	train-rmse:0.052043	valid-rmse:0.05203
+[150]	train-rmse:0.051953	valid-rmse:0.052005
+Stopping. Best iteration:
+[187]	train-rmse:0.051905	valid-rmse:0.051998
+[0]	train-rmse:0.122363	valid-rmse:0.122362
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.052161	valid-rmse:0.052448
+[100]	train-rmse:0.051975	valid-rmse:0.052332
+[150]	train-rmse:0.051887	valid-rmse:0.052307
+Stopping. Best iteration:
+[183]	train-rmse:0.051833	valid-rmse:0.052294
+[0]	train-rmse:0.122445	valid-rmse:0.122472
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.052226	valid-rmse:0.052183
+[100]	train-rmse:0.052052	valid-rmse:0.052069
+[150]	train-rmse:0.051968	valid-rmse:0.052043
+[200]	train-rmse:0.051895	valid-rmse:0.052032
+Stopping. Best iteration:
+[209]	train-rmse:0.051882	valid-rmse:0.052027
+[0]	train-rmse:0.12243	valid-rmse:0.122552
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.052149	valid-rmse:0.05252
+[100]	train-rmse:0.051971	valid-rmse:0.052404
+[150]	train-rmse:0.051884	valid-rmse:0.052375
+[200]	train-rmse:0.051812	valid-rmse:0.052354
+[250]	train-rmse:0.051746	valid-rmse:0.052342
+Stopping. Best iteration:
+[247]	train-rmse:0.05175	valid-rmse:0.052342
+ps_car_13
+[0]	train-rmse:0.357402	valid-rmse:0.358252
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.190622	valid-rmse:0.191473
+[100]	train-rmse:0.189762	valid-rmse:0.190837
+[150]	train-rmse:0.189335	valid-rmse:0.190612
+[200]	train-rmse:0.188992	valid-rmse:0.190498
+Stopping. Best iteration:
+[219]	train-rmse:0.188882	valid-rmse:0.190472
+[0]	train-rmse:0.357483	valid-rmse:0.357928
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.190715	valid-rmse:0.191148
+[100]	train-rmse:0.189866	valid-rmse:0.190516
+[150]	train-rmse:0.189427	valid-rmse:0.1903
+[200]	train-rmse:0.18908	valid-rmse:0.190185
+Stopping. Best iteration:
+[228]	train-rmse:0.188905	valid-rmse:0.19013
+[0]	train-rmse:0.357357	valid-rmse:0.358419
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.190707	valid-rmse:0.191275
+[100]	train-rmse:0.189846	valid-rmse:0.190656
+[150]	train-rmse:0.189405	valid-rmse:0.19045
+[200]	train-rmse:0.189036	valid-rmse:0.190315
+[250]	train-rmse:0.188766	valid-rmse:0.190263
+[300]	train-rmse:0.188482	valid-rmse:0.190168
+[350]	train-rmse:0.188205	valid-rmse:0.190115
+Stopping. Best iteration:
+[347]	train-rmse:0.18822	valid-rmse:0.190113
+[0]	train-rmse:0.358243	valid-rmse:0.356375
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.19082	valid-rmse:0.190617
+[100]	train-rmse:0.189945	valid-rmse:0.190032
+[150]	train-rmse:0.189509	valid-rmse:0.189827
+[200]	train-rmse:0.189185	valid-rmse:0.189739
+[250]	train-rmse:0.188872	valid-rmse:0.18966
+[300]	train-rmse:0.188601	valid-rmse:0.189621
+[350]	train-rmse:0.188368	valid-rmse:0.189584
+Stopping. Best iteration:
+[372]	train-rmse:0.188267	valid-rmse:0.18957
+[0]	train-rmse:0.357957	valid-rmse:0.357532
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.190801	valid-rmse:0.190897
+[100]	train-rmse:0.189896	valid-rmse:0.190256
+[150]	train-rmse:0.18949	valid-rmse:0.190105
+[200]	train-rmse:0.189159	valid-rmse:0.189999
+[250]	train-rmse:0.188854	valid-rmse:0.189916
+[300]	train-rmse:0.188612	valid-rmse:0.18987
+[350]	train-rmse:0.188377	valid-rmse:0.189828
+Stopping. Best iteration:
+[382]	train-rmse:0.188216	valid-rmse:0.189787
+ps_car_14
+[0]	train-rmse:0.409581	valid-rmse:0.409292
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.354172	valid-rmse:0.354573
+Stopping. Best iteration:
+[68]	train-rmse:0.353988	valid-rmse:0.354544
+[0]	train-rmse:0.409824	valid-rmse:0.408245
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.35439	valid-rmse:0.353695
+Stopping. Best iteration:
+[67]	train-rmse:0.354204	valid-rmse:0.353685
+[0]	train-rmse:0.409034	valid-rmse:0.411455
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.353728	valid-rmse:0.356315
+Stopping. Best iteration:
+[63]	train-rmse:0.353604	valid-rmse:0.356302
+[0]	train-rmse:0.40945	valid-rmse:0.410324
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.353998	valid-rmse:0.35526
+Stopping. Best iteration:
+[69]	train-rmse:0.353815	valid-rmse:0.355242
+[0]	train-rmse:0.409879	valid-rmse:0.408504
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.354389	valid-rmse:0.353678
+[100]	train-rmse:0.353903	valid-rmse:0.35365
+Stopping. Best iteration:
+[92]	train-rmse:0.353977	valid-rmse:0.353642
+ps_car_15
+[0]	train-rmse:2.42162	valid-rmse:2.4221
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.698166	valid-rmse:0.698139
+[100]	train-rmse:0.696149	valid-rmse:0.697091
+[150]	train-rmse:0.695018	valid-rmse:0.696835
+Stopping. Best iteration:
+[149]	train-rmse:0.695036	valid-rmse:0.696832
+[0]	train-rmse:2.42172	valid-rmse:2.4219
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.697865	valid-rmse:0.699393
+[100]	train-rmse:0.69581	valid-rmse:0.698225
+Stopping. Best iteration:
+[103]	train-rmse:0.695718	valid-rmse:0.698203
+[0]	train-rmse:2.42168	valid-rmse:2.42193
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.697971	valid-rmse:0.698707
+[100]	train-rmse:0.695968	valid-rmse:0.697649
+[150]	train-rmse:0.694834	valid-rmse:0.697375
+Stopping. Best iteration:
+[178]	train-rmse:0.694334	valid-rmse:0.697292
+[0]	train-rmse:2.42224	valid-rmse:2.42088
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.697632	valid-rmse:0.700373
+[100]	train-rmse:0.695534	valid-rmse:0.699261
+[150]	train-rmse:0.694502	valid-rmse:0.699106
+[200]	train-rmse:0.693654	valid-rmse:0.699
+Stopping. Best iteration:
+[207]	train-rmse:0.693514	valid-rmse:0.698977
+[0]	train-rmse:2.42195	valid-rmse:2.42245
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.698217	valid-rmse:0.698355
+[100]	train-rmse:0.695988	valid-rmse:0.697058
+Stopping. Best iteration:
+[126]	train-rmse:0.695342	valid-rmse:0.696922
+index
+[0]	train-rmse:422078	valid-rmse:422497
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:238428	valid-rmse:238870
+Stopping. Best iteration:
+[54]	train-rmse:238408	valid-rmse:238865
+[0]	train-rmse:422157	valid-rmse:422149
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:238437	valid-rmse:238722
+Stopping. Best iteration:
+[52]	train-rmse:238426	valid-rmse:238720
+[0]	train-rmse:422198	valid-rmse:421979
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:238480	valid-rmse:238556
+Stopping. Best iteration:
+[54]	train-rmse:238461	valid-rmse:238553
+[0]	train-rmse:422200	valid-rmse:421962
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:238445	valid-rmse:238636
+Stopping. Best iteration:
+[54]	train-rmse:238426	valid-rmse:238633
+[0]	train-rmse:422143	valid-rmse:422206
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:238421	valid-rmse:238872
+Stopping. Best iteration:
+[51]	train-rmse:238412	valid-rmse:238871
+ps_ind_01
+[0]	train-rmse:2.32475	valid-rmse:2.32547
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:1.73889	valid-rmse:1.74175
+[100]	train-rmse:1.72761	valid-rmse:1.733
+[150]	train-rmse:1.72207	valid-rmse:1.72978
+[200]	train-rmse:1.71819	valid-rmse:1.72813
+[250]	train-rmse:1.71484	valid-rmse:1.7271
+[300]	train-rmse:1.71215	valid-rmse:1.72655
+[350]	train-rmse:1.70978	valid-rmse:1.72622
+[400]	train-rmse:1.7077	valid-rmse:1.72599
+[450]	train-rmse:1.70559	valid-rmse:1.72579
+[0]	train-rmse:2.32564	valid-rmse:2.32208
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:1.7394	valid-rmse:1.7406
+[100]	train-rmse:1.72817	valid-rmse:1.73186
+[150]	train-rmse:1.7223	valid-rmse:1.72825
+[200]	train-rmse:1.71851	valid-rmse:1.72645
+[250]	train-rmse:1.71581	valid-rmse:1.72571
+[300]	train-rmse:1.7134	valid-rmse:1.72504
+Stopping. Best iteration:
+[337]	train-rmse:1.71152	valid-rmse:1.72466
+[0]	train-rmse:2.32481	valid-rmse:2.32523
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:1.73908	valid-rmse:1.74178
+[100]	train-rmse:1.72803	valid-rmse:1.73295
+[150]	train-rmse:1.72242	valid-rmse:1.72948
+[200]	train-rmse:1.71849	valid-rmse:1.72775
+[250]	train-rmse:1.71557	valid-rmse:1.72673
+[300]	train-rmse:1.71286	valid-rmse:1.72608
+[350]	train-rmse:1.71039	valid-rmse:1.72565
+[400]	train-rmse:1.70809	valid-rmse:1.72529
+[450]	train-rmse:1.70596	valid-rmse:1.72509
+[0]	train-rmse:2.32273	valid-rmse:2.32729
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:1.73828	valid-rmse:1.74369
+[100]	train-rmse:1.72706	valid-rmse:1.73473
+[150]	train-rmse:1.72116	valid-rmse:1.7311
+[200]	train-rmse:1.71723	valid-rmse:1.72941
+[250]	train-rmse:1.71436	valid-rmse:1.72852
+[300]	train-rmse:1.7117	valid-rmse:1.72794
+[350]	train-rmse:1.70942	valid-rmse:1.72756
+Stopping. Best iteration:
+[372]	train-rmse:1.70852	valid-rmse:1.72735
+[0]	train-rmse:2.32367	valid-rmse:2.32221
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:1.73924	valid-rmse:1.74165
+[100]	train-rmse:1.72805	valid-rmse:1.73272
+[150]	train-rmse:1.72218	valid-rmse:1.72894
+[200]	train-rmse:1.71861	valid-rmse:1.7274
+[250]	train-rmse:1.71559	valid-rmse:1.72649
+[300]	train-rmse:1.713	valid-rmse:1.72584
+[350]	train-rmse:1.71043	valid-rmse:1.72538
+[400]	train-rmse:1.70833	valid-rmse:1.72511
+[450]	train-rmse:1.7061	valid-rmse:1.72486
+ps_ind_02_cat
+[0]	train-rmse:1.01686	valid-rmse:1.01892
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.645717	valid-rmse:0.647911
+[100]	train-rmse:0.644162	valid-rmse:0.64724
+[150]	train-rmse:0.643201	valid-rmse:0.647065
+Stopping. Best iteration:
+[187]	train-rmse:0.642544	valid-rmse:0.647009
+[0]	train-rmse:1.01774	valid-rmse:1.0152
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.64643	valid-rmse:0.645047
+[100]	train-rmse:0.644875	valid-rmse:0.644303
+[150]	train-rmse:0.643949	valid-rmse:0.644127
+Stopping. Best iteration:
+[150]	train-rmse:0.643949	valid-rmse:0.644127
+[0]	train-rmse:1.01725	valid-rmse:1.01755
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.645813	valid-rmse:0.647107
+[100]	train-rmse:0.644314	valid-rmse:0.646449
+[150]	train-rmse:0.643309	valid-rmse:0.646233
+Stopping. Best iteration:
+[186]	train-rmse:0.642791	valid-rmse:0.646188
+[0]	train-rmse:1.01706	valid-rmse:1.01803
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.645912	valid-rmse:0.647638
+[100]	train-rmse:0.644251	valid-rmse:0.646753
+[150]	train-rmse:0.643262	valid-rmse:0.646579
+[200]	train-rmse:0.642461	valid-rmse:0.646524
+Stopping. Best iteration:
+[198]	train-rmse:0.642493	valid-rmse:0.64652
+[0]	train-rmse:1.01734	valid-rmse:1.0166
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.646114	valid-rmse:0.646143
+[100]	train-rmse:0.644605	valid-rmse:0.64539
+[150]	train-rmse:0.643619	valid-rmse:0.645191
+Stopping. Best iteration:
+[181]	train-rmse:0.643172	valid-rmse:0.645154
+ps_ind_03
+[0]	train-rmse:4.43301	valid-rmse:4.42957
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:2.54607	valid-rmse:2.54556
+[100]	train-rmse:2.53174	valid-rmse:2.53426
+[150]	train-rmse:2.52581	valid-rmse:2.53106
+[200]	train-rmse:2.52119	valid-rmse:2.5294
+[250]	train-rmse:2.51769	valid-rmse:2.52868
+[300]	train-rmse:2.51413	valid-rmse:2.52798
+[350]	train-rmse:2.5111	valid-rmse:2.52746
+Stopping. Best iteration:
+[350]	train-rmse:2.5111	valid-rmse:2.52746
+[0]	train-rmse:4.43185	valid-rmse:4.4336
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:2.54564	valid-rmse:2.55209
+[100]	train-rmse:2.53125	valid-rmse:2.5409
+[150]	train-rmse:2.52444	valid-rmse:2.53714
+[200]	train-rmse:2.52017	valid-rmse:2.53561
+[250]	train-rmse:2.51626	valid-rmse:2.53458
+[300]	train-rmse:2.51302	valid-rmse:2.53401
+[350]	train-rmse:2.51008	valid-rmse:2.5335
+Stopping. Best iteration:
+[386]	train-rmse:2.5082	valid-rmse:2.53331
+[0]	train-rmse:4.43238	valid-rmse:4.43195
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:2.5467	valid-rmse:2.54475
+[100]	train-rmse:2.53345	valid-rmse:2.53394
+[150]	train-rmse:2.52639	valid-rmse:2.52976
+[200]	train-rmse:2.52165	valid-rmse:2.52783
+[250]	train-rmse:2.51802	valid-rmse:2.52702
+[300]	train-rmse:2.51454	valid-rmse:2.5264
+[350]	train-rmse:2.5114	valid-rmse:2.52592
+Stopping. Best iteration:
+[365]	train-rmse:2.51048	valid-rmse:2.52581
+[0]	train-rmse:4.43002	valid-rmse:4.43184
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:2.54594	valid-rmse:2.55306
+[100]	train-rmse:2.53186	valid-rmse:2.54164
+[150]	train-rmse:2.52517	valid-rmse:2.53786
+[200]	train-rmse:2.52052	valid-rmse:2.53604
+[250]	train-rmse:2.51664	valid-rmse:2.53492
+[300]	train-rmse:2.51328	valid-rmse:2.53423
+[350]	train-rmse:2.51021	valid-rmse:2.53384
+Stopping. Best iteration:
+[347]	train-rmse:2.51036	valid-rmse:2.53382
+[0]	train-rmse:4.43025	valid-rmse:4.43088
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:2.54592	valid-rmse:2.54954
+[100]	train-rmse:2.53252	valid-rmse:2.53877
+[150]	train-rmse:2.5261	valid-rmse:2.53534
+[200]	train-rmse:2.52151	valid-rmse:2.53342
+[250]	train-rmse:2.51765	valid-rmse:2.53218
+[300]	train-rmse:2.51418	valid-rmse:2.53146
+[350]	train-rmse:2.51111	valid-rmse:2.53098
+[400]	train-rmse:2.50815	valid-rmse:2.53068
+[450]	train-rmse:2.5054	valid-rmse:2.5303
+ps_ind_04_cat
+[0]	train-rmse:0.496597	valid-rmse:0.49652
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.470705	valid-rmse:0.471045
+[100]	train-rmse:0.468983	valid-rmse:0.469882
+[150]	train-rmse:0.468129	valid-rmse:0.469605
+[200]	train-rmse:0.46748	valid-rmse:0.469494
+Stopping. Best iteration:
+[229]	train-rmse:0.467093	valid-rmse:0.469445
+[0]	train-rmse:0.496529	valid-rmse:0.496598
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.470553	valid-rmse:0.471235
+[100]	train-rmse:0.468911	valid-rmse:0.470125
+[150]	train-rmse:0.468125	valid-rmse:0.469861
+[200]	train-rmse:0.467437	valid-rmse:0.469754
+Stopping. Best iteration:
+[239]	train-rmse:0.466953	valid-rmse:0.469706
+[0]	train-rmse:0.496567	valid-rmse:0.496588
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.470602	valid-rmse:0.471232
+[100]	train-rmse:0.468982	valid-rmse:0.470177
+[150]	train-rmse:0.468071	valid-rmse:0.469856
+[200]	train-rmse:0.467398	valid-rmse:0.469738
+[250]	train-rmse:0.46684	valid-rmse:0.46967
+Stopping. Best iteration:
+[271]	train-rmse:0.466602	valid-rmse:0.469647
+[0]	train-rmse:0.496612	valid-rmse:0.496594
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.470532	valid-rmse:0.471294
+[100]	train-rmse:0.468871	valid-rmse:0.470273
+[150]	train-rmse:0.467973	valid-rmse:0.469984
+[200]	train-rmse:0.46731	valid-rmse:0.469873
+[250]	train-rmse:0.466733	valid-rmse:0.46983
+[300]	train-rmse:0.466202	valid-rmse:0.469796
+Stopping. Best iteration:
+[292]	train-rmse:0.466278	valid-rmse:0.469789
+[0]	train-rmse:0.496606	valid-rmse:0.496662
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.470662	valid-rmse:0.471087
+[100]	train-rmse:0.469	valid-rmse:0.469942
+[150]	train-rmse:0.468158	valid-rmse:0.469657
+[200]	train-rmse:0.467553	valid-rmse:0.469561
+[250]	train-rmse:0.466934	valid-rmse:0.469479
+[300]	train-rmse:0.466354	valid-rmse:0.46942
+Stopping. Best iteration:
+[304]	train-rmse:0.46631	valid-rmse:0.469418
+ps_ind_05_cat
+[0]	train-rmse:1.35286	valid-rmse:1.35812
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:1.33786	valid-rmse:1.34473
+[100]	train-rmse:1.33537	valid-rmse:1.34404
+[150]	train-rmse:1.33357	valid-rmse:1.34384
+Stopping. Best iteration:
+[153]	train-rmse:1.33351	valid-rmse:1.34382
+[0]	train-rmse:1.35519	valid-rmse:1.34893
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:1.34033	valid-rmse:1.3352
+[100]	train-rmse:1.33792	valid-rmse:1.33463
+Stopping. Best iteration:
+[135]	train-rmse:1.33665	valid-rmse:1.33446
+[0]	train-rmse:1.35311	valid-rmse:1.35723
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:1.33791	valid-rmse:1.34465
+[100]	train-rmse:1.33556	valid-rmse:1.34407
+Stopping. Best iteration:
+[118]	train-rmse:1.3349	valid-rmse:1.34399
+[0]	train-rmse:1.35532	valid-rmse:1.34881
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:1.34016	valid-rmse:1.33495
+[100]	train-rmse:1.33794	valid-rmse:1.33437
+Stopping. Best iteration:
+[131]	train-rmse:1.33678	valid-rmse:1.33425
+[0]	train-rmse:1.3533	valid-rmse:1.35682
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:1.33792	valid-rmse:1.34368
+[100]	train-rmse:1.33575	valid-rmse:1.34323
+[150]	train-rmse:1.33384	valid-rmse:1.34305
+Stopping. Best iteration:
+[151]	train-rmse:1.33379	valid-rmse:1.34304
+ps_ind_06_bin
+[0]	train-rmse:0.490573	valid-rmse:0.490585
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.413574	valid-rmse:0.413998
+[100]	train-rmse:0.405393	valid-rmse:0.406121
+[150]	train-rmse:0.402842	valid-rmse:0.403937
+[200]	train-rmse:0.401394	valid-rmse:0.402883
+[250]	train-rmse:0.400456	valid-rmse:0.402379
+[300]	train-rmse:0.399767	valid-rmse:0.402103
+[350]	train-rmse:0.399039	valid-rmse:0.401823
+[400]	train-rmse:0.398395	valid-rmse:0.401635
+[450]	train-rmse:0.397799	valid-rmse:0.40146
+[0]	train-rmse:0.49074	valid-rmse:0.490788
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.41285	valid-rmse:0.413724
+[100]	train-rmse:0.404957	valid-rmse:0.406209
+[150]	train-rmse:0.402554	valid-rmse:0.404224
+[200]	train-rmse:0.401228	valid-rmse:0.403333
+[250]	train-rmse:0.400249	valid-rmse:0.402782
+[300]	train-rmse:0.399514	valid-rmse:0.402482
+[350]	train-rmse:0.39884	valid-rmse:0.402247
+[400]	train-rmse:0.398246	valid-rmse:0.402068
+[450]	train-rmse:0.397638	valid-rmse:0.401889
+[0]	train-rmse:0.49077	valid-rmse:0.490697
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.41263	valid-rmse:0.412723
+[100]	train-rmse:0.405084	valid-rmse:0.40568
+[150]	train-rmse:0.402635	valid-rmse:0.403654
+[200]	train-rmse:0.401348	valid-rmse:0.40279
+[250]	train-rmse:0.400467	valid-rmse:0.402354
+[300]	train-rmse:0.399784	valid-rmse:0.402092
+[350]	train-rmse:0.399071	valid-rmse:0.401828
+[400]	train-rmse:0.398401	valid-rmse:0.401576
+[450]	train-rmse:0.397885	valid-rmse:0.401437
+[0]	train-rmse:0.490597	valid-rmse:0.490668
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.412865	valid-rmse:0.413556
+[100]	train-rmse:0.405057	valid-rmse:0.406113
+[150]	train-rmse:0.402585	valid-rmse:0.404047
+[200]	train-rmse:0.401241	valid-rmse:0.403153
+[250]	train-rmse:0.400288	valid-rmse:0.402664
+[300]	train-rmse:0.399556	valid-rmse:0.402391
+[350]	train-rmse:0.398896	valid-rmse:0.402165
+[400]	train-rmse:0.398204	valid-rmse:0.401948
+[450]	train-rmse:0.397569	valid-rmse:0.401746
+[0]	train-rmse:0.490637	valid-rmse:0.490641
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.412759	valid-rmse:0.413199
+[100]	train-rmse:0.405038	valid-rmse:0.40587
+[150]	train-rmse:0.402704	valid-rmse:0.403943
+[200]	train-rmse:0.401395	valid-rmse:0.403096
+[250]	train-rmse:0.400479	valid-rmse:0.402637
+[300]	train-rmse:0.399735	valid-rmse:0.402328
+[350]	train-rmse:0.399124	valid-rmse:0.402112
+[400]	train-rmse:0.398478	valid-rmse:0.401912
+[450]	train-rmse:0.397863	valid-rmse:0.401735
+ps_ind_07_bin
+[0]	train-rmse:0.482938	valid-rmse:0.482968
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.38528	valid-rmse:0.385833
+[100]	train-rmse:0.380976	valid-rmse:0.382187
+[150]	train-rmse:0.378949	valid-rmse:0.380686
+[200]	train-rmse:0.377582	valid-rmse:0.379812
+[250]	train-rmse:0.376632	valid-rmse:0.379346
+[300]	train-rmse:0.37579	valid-rmse:0.378993
+[350]	train-rmse:0.375015	valid-rmse:0.378676
+[400]	train-rmse:0.374304	valid-rmse:0.378367
+[450]	train-rmse:0.373547	valid-rmse:0.37804
+[0]	train-rmse:0.482927	valid-rmse:0.482891
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.385118	valid-rmse:0.385344
+[100]	train-rmse:0.380888	valid-rmse:0.381615
+[150]	train-rmse:0.378989	valid-rmse:0.38018
+[200]	train-rmse:0.377759	valid-rmse:0.37944
+[250]	train-rmse:0.376684	valid-rmse:0.378779
+[300]	train-rmse:0.375911	valid-rmse:0.378455
+[350]	train-rmse:0.375054	valid-rmse:0.378034
+[400]	train-rmse:0.374261	valid-rmse:0.377652
+[450]	train-rmse:0.373561	valid-rmse:0.377358
+[0]	train-rmse:0.482945	valid-rmse:0.482923
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.385491	valid-rmse:0.385338
+[100]	train-rmse:0.381259	valid-rmse:0.38145
+[150]	train-rmse:0.379121	valid-rmse:0.379713
+[200]	train-rmse:0.377958	valid-rmse:0.379014
+[250]	train-rmse:0.376861	valid-rmse:0.378318
+[300]	train-rmse:0.375976	valid-rmse:0.37788
+[350]	train-rmse:0.375148	valid-rmse:0.377474
+[400]	train-rmse:0.374444	valid-rmse:0.377216
+[450]	train-rmse:0.373748	valid-rmse:0.376943
+[0]	train-rmse:0.482881	valid-rmse:0.482915
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.385327	valid-rmse:0.386106
+[100]	train-rmse:0.380922	valid-rmse:0.382066
+[150]	train-rmse:0.378964	valid-rmse:0.380562
+[200]	train-rmse:0.377838	valid-rmse:0.37984
+[250]	train-rmse:0.376635	valid-rmse:0.379099
+[300]	train-rmse:0.375665	valid-rmse:0.378564
+[350]	train-rmse:0.374998	valid-rmse:0.37831
+[400]	train-rmse:0.374295	valid-rmse:0.378019
+[450]	train-rmse:0.373548	valid-rmse:0.377705
+[0]	train-rmse:0.482869	valid-rmse:0.48294
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.385213	valid-rmse:0.3865
+[100]	train-rmse:0.380848	valid-rmse:0.382564
+[150]	train-rmse:0.378849	valid-rmse:0.381005
+[200]	train-rmse:0.377538	valid-rmse:0.380137
+[250]	train-rmse:0.376451	valid-rmse:0.379502
+[300]	train-rmse:0.375504	valid-rmse:0.379
+[350]	train-rmse:0.37467	valid-rmse:0.378538
+Stopping. Best iteration:
+[388]	train-rmse:0.374131	valid-rmse:0.378318
+ps_ind_08_bin
+[0]	train-rmse:0.475067	valid-rmse:0.475102
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.336255	valid-rmse:0.336911
+[100]	train-rmse:0.332035	valid-rmse:0.333123
+[150]	train-rmse:0.329967	valid-rmse:0.331428
+[200]	train-rmse:0.328545	valid-rmse:0.330377
+[250]	train-rmse:0.327526	valid-rmse:0.329747
+[300]	train-rmse:0.326634	valid-rmse:0.329265
+[350]	train-rmse:0.325883	valid-rmse:0.328912
+[400]	train-rmse:0.325138	valid-rmse:0.328528
+[450]	train-rmse:0.324486	valid-rmse:0.328273
+[0]	train-rmse:0.475086	valid-rmse:0.475031
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.336488	valid-rmse:0.336201
+[100]	train-rmse:0.33206	valid-rmse:0.332242
+[150]	train-rmse:0.329907	valid-rmse:0.330562
+[200]	train-rmse:0.328449	valid-rmse:0.329493
+[250]	train-rmse:0.327524	valid-rmse:0.328991
+[300]	train-rmse:0.326772	valid-rmse:0.328648
+[350]	train-rmse:0.326104	valid-rmse:0.328385
+[400]	train-rmse:0.32545	valid-rmse:0.328114
+[450]	train-rmse:0.324793	valid-rmse:0.327857
+[0]	train-rmse:0.475064	valid-rmse:0.4751
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.335898	valid-rmse:0.336982
+[100]	train-rmse:0.331981	valid-rmse:0.333493
+[150]	train-rmse:0.329897	valid-rmse:0.331751
+[200]	train-rmse:0.328444	valid-rmse:0.330677
+[250]	train-rmse:0.327424	valid-rmse:0.330014
+[300]	train-rmse:0.326571	valid-rmse:0.329545
+[350]	train-rmse:0.325828	valid-rmse:0.329185
+[400]	train-rmse:0.32506	valid-rmse:0.328785
+[450]	train-rmse:0.324433	valid-rmse:0.328507
+[0]	train-rmse:0.475256	valid-rmse:0.475249
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.336013	valid-rmse:0.336432
+[100]	train-rmse:0.331817	valid-rmse:0.332704
+[150]	train-rmse:0.329863	valid-rmse:0.3311
+[200]	train-rmse:0.328543	valid-rmse:0.330158
+[250]	train-rmse:0.32759	valid-rmse:0.329653
+[300]	train-rmse:0.326649	valid-rmse:0.329108
+[350]	train-rmse:0.325971	valid-rmse:0.328802
+[400]	train-rmse:0.325336	valid-rmse:0.328501
+[450]	train-rmse:0.324655	valid-rmse:0.328177
+[0]	train-rmse:0.47523	valid-rmse:0.475254
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.336077	valid-rmse:0.336652
+[100]	train-rmse:0.331865	valid-rmse:0.332753
+[150]	train-rmse:0.329778	valid-rmse:0.331014
+[200]	train-rmse:0.328492	valid-rmse:0.33017
+[250]	train-rmse:0.327516	valid-rmse:0.329609
+[300]	train-rmse:0.326691	valid-rmse:0.329195
+[350]	train-rmse:0.325959	valid-rmse:0.328805
+[400]	train-rmse:0.325244	valid-rmse:0.328491
+[450]	train-rmse:0.32452	valid-rmse:0.328164
+ps_ind_09_bin
+[0]	train-rmse:0.477853	valid-rmse:0.477895
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.343966	valid-rmse:0.344909
+[100]	train-rmse:0.340227	valid-rmse:0.34153
+[150]	train-rmse:0.338624	valid-rmse:0.340287
+[200]	train-rmse:0.337674	valid-rmse:0.339717
+[250]	train-rmse:0.336751	valid-rmse:0.339199
+[300]	train-rmse:0.33603	valid-rmse:0.338826
+[350]	train-rmse:0.335411	valid-rmse:0.338591
+[400]	train-rmse:0.334872	valid-rmse:0.338411
+[450]	train-rmse:0.334298	valid-rmse:0.338216
+[0]	train-rmse:0.477714	valid-rmse:0.477764
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.344477	valid-rmse:0.345728
+[100]	train-rmse:0.340255	valid-rmse:0.342
+[150]	train-rmse:0.33854	valid-rmse:0.340732
+[200]	train-rmse:0.337502	valid-rmse:0.340092
+[250]	train-rmse:0.336718	valid-rmse:0.339722
+[300]	train-rmse:0.335935	valid-rmse:0.339323
+[350]	train-rmse:0.335262	valid-rmse:0.339065
+[400]	train-rmse:0.334694	valid-rmse:0.338878
+[450]	train-rmse:0.334099	valid-rmse:0.338659
+[0]	train-rmse:0.477774	valid-rmse:0.477656
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.344638	valid-rmse:0.343735
+[100]	train-rmse:0.340866	valid-rmse:0.340314
+[150]	train-rmse:0.339167	valid-rmse:0.338966
+[200]	train-rmse:0.338085	valid-rmse:0.338311
+[250]	train-rmse:0.337188	valid-rmse:0.337806
+[300]	train-rmse:0.336411	valid-rmse:0.337412
+[350]	train-rmse:0.33563	valid-rmse:0.33701
+[400]	train-rmse:0.335013	valid-rmse:0.33676
+[450]	train-rmse:0.334454	valid-rmse:0.336568
+[0]	train-rmse:0.477886	valid-rmse:0.47796
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.344296	valid-rmse:0.345293
+[100]	train-rmse:0.340274	valid-rmse:0.341674
+[150]	train-rmse:0.33859	valid-rmse:0.340349
+[200]	train-rmse:0.337529	valid-rmse:0.339723
+[250]	train-rmse:0.336704	valid-rmse:0.339316
+[300]	train-rmse:0.335992	valid-rmse:0.338991
+[350]	train-rmse:0.335331	valid-rmse:0.338723
+[400]	train-rmse:0.334687	valid-rmse:0.338474
+[450]	train-rmse:0.334177	valid-rmse:0.338323
+[0]	train-rmse:0.477806	valid-rmse:0.477801
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.344332	valid-rmse:0.344377
+[100]	train-rmse:0.340236	valid-rmse:0.340689
+[150]	train-rmse:0.338581	valid-rmse:0.339403
+[200]	train-rmse:0.337604	valid-rmse:0.338826
+[250]	train-rmse:0.336873	valid-rmse:0.338483
+[300]	train-rmse:0.336171	valid-rmse:0.338205
+[350]	train-rmse:0.335452	valid-rmse:0.337873
+[400]	train-rmse:0.334927	valid-rmse:0.337722
+[450]	train-rmse:0.334408	valid-rmse:0.337565
+ps_ind_10_bin
+[0]	train-rmse:0.45008	valid-rmse:0.450076
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.019494	valid-rmse:0.018837
+Stopping. Best iteration:
+[79]	train-rmse:0.019317	valid-rmse:0.018694
+[0]	train-rmse:0.45008	valid-rmse:0.450078
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.019448	valid-rmse:0.019016
+Stopping. Best iteration:
+[76]	train-rmse:0.019279	valid-rmse:0.018873
+[0]	train-rmse:0.450077	valid-rmse:0.450082
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.01911	valid-rmse:0.020363
+Stopping. Best iteration:
+[72]	train-rmse:0.018943	valid-rmse:0.020241
+[0]	train-rmse:0.450078	valid-rmse:0.450078
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.019322	valid-rmse:0.019526
+Stopping. Best iteration:
+[77]	train-rmse:0.01915	valid-rmse:0.019394
+[0]	train-rmse:0.450078	valid-rmse:0.450078
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.019351	valid-rmse:0.019437
+Stopping. Best iteration:
+[70]	train-rmse:0.019186	valid-rmse:0.019303
+ps_ind_11_bin
+[0]	train-rmse:0.450344	valid-rmse:0.450342
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.04031	valid-rmse:0.040036
+Stopping. Best iteration:
+[75]	train-rmse:0.040208	valid-rmse:0.03997
+[0]	train-rmse:0.45034	valid-rmse:0.450346
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.040088	valid-rmse:0.040906
+Stopping. Best iteration:
+[67]	train-rmse:0.039995	valid-rmse:0.040849
+[0]	train-rmse:0.450338	valid-rmse:0.450349
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.04002	valid-rmse:0.041182
+Stopping. Best iteration:
+[66]	train-rmse:0.039926	valid-rmse:0.041122
+[0]	train-rmse:0.450344	valid-rmse:0.450335
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.040394	valid-rmse:0.039655
+Stopping. Best iteration:
+[72]	train-rmse:0.040297	valid-rmse:0.039585
+[0]	train-rmse:0.450344	valid-rmse:0.45034
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.04034	valid-rmse:0.03993
+Stopping. Best iteration:
+[70]	train-rmse:0.040244	valid-rmse:0.039863
+ps_ind_12_bin
+[0]	train-rmse:0.451922	valid-rmse:0.451915
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.095085	valid-rmse:0.094794
+Stopping. Best iteration:
+[76]	train-rmse:0.094948	valid-rmse:0.094763
+[0]	train-rmse:0.451917	valid-rmse:0.451898
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.095119	valid-rmse:0.09451
+Stopping. Best iteration:
+[65]	train-rmse:0.095032	valid-rmse:0.094484
+[0]	train-rmse:0.451895	valid-rmse:0.451944
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.094535	valid-rmse:0.096834
+Stopping. Best iteration:
+[62]	train-rmse:0.094464	valid-rmse:0.096812
+[0]	train-rmse:0.451915	valid-rmse:0.451901
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.095013	valid-rmse:0.09493
+Stopping. Best iteration:
+[63]	train-rmse:0.094941	valid-rmse:0.094901
+[0]	train-rmse:0.451915	valid-rmse:0.451914
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.094977	valid-rmse:0.095096
+Stopping. Best iteration:
+[69]	train-rmse:0.094884	valid-rmse:0.095068
+ps_ind_13_bin
+[0]	train-rmse:0.45021	valid-rmse:0.450214
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.031497	valid-rmse:0.032033
+Stopping. Best iteration:
+[72]	train-rmse:0.031379	valid-rmse:0.031952
+[0]	train-rmse:0.450209	valid-rmse:0.450215
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.031399	valid-rmse:0.03245
+Stopping. Best iteration:
+[68]	train-rmse:0.031285	valid-rmse:0.032375
+[0]	train-rmse:0.450209	valid-rmse:0.450216
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.031421	valid-rmse:0.032348
+Stopping. Best iteration:
+[72]	train-rmse:0.031305	valid-rmse:0.032272
+[0]	train-rmse:0.450212	valid-rmse:0.450208
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.031697	valid-rmse:0.031246
+Stopping. Best iteration:
+[69]	train-rmse:0.031588	valid-rmse:0.031163
+[0]	train-rmse:0.450215	valid-rmse:0.450203
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.031909	valid-rmse:0.030334
+Stopping. Best iteration:
+[71]	train-rmse:0.031795	valid-rmse:0.030239
+ps_ind_14
+[0]	train-rmse:0.456854	valid-rmse:0.456889
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.125348	valid-rmse:0.1253
+Stopping. Best iteration:
+[71]	train-rmse:0.125217	valid-rmse:0.12527
+[0]	train-rmse:0.456835	valid-rmse:0.456914
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.125225	valid-rmse:0.125616
+Stopping. Best iteration:
+[62]	train-rmse:0.125146	valid-rmse:0.125602
+[0]	train-rmse:0.456762	valid-rmse:0.45716
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.124515	valid-rmse:0.128319
+Stopping. Best iteration:
+[79]	train-rmse:0.124345	valid-rmse:0.128302
+[0]	train-rmse:0.456903	valid-rmse:0.456645
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.12553	valid-rmse:0.124443
+Stopping. Best iteration:
+[69]	train-rmse:0.125409	valid-rmse:0.124415
+[0]	train-rmse:0.456904	valid-rmse:0.456658
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.125506	valid-rmse:0.12444
+Stopping. Best iteration:
+[56]	train-rmse:0.125443	valid-rmse:0.124421
+ps_ind_15
+[0]	train-rmse:7.06424	valid-rmse:7.07612
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:3.44984	valid-rmse:3.45172
+[100]	train-rmse:3.44014	valid-rmse:3.44625
+[150]	train-rmse:3.4344	valid-rmse:3.4446
+[200]	train-rmse:3.42941	valid-rmse:3.44393
+Stopping. Best iteration:
+[198]	train-rmse:3.42959	valid-rmse:3.44393
+[0]	train-rmse:7.06531	valid-rmse:7.0708
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:3.44858	valid-rmse:3.45544
+[100]	train-rmse:3.4392	valid-rmse:3.45028
+[150]	train-rmse:3.43381	valid-rmse:3.44854
+[200]	train-rmse:3.42911	valid-rmse:3.44778
+[250]	train-rmse:3.42484	valid-rmse:3.44729
+Stopping. Best iteration:
+[254]	train-rmse:3.42454	valid-rmse:3.44726
+[0]	train-rmse:7.06762	valid-rmse:7.0594
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:3.4489	valid-rmse:3.4546
+[100]	train-rmse:3.43963	valid-rmse:3.44964
+[150]	train-rmse:3.43386	valid-rmse:3.44794
+[200]	train-rmse:3.42937	valid-rmse:3.44729
+Stopping. Best iteration:
+[200]	train-rmse:3.42937	valid-rmse:3.44729
+[0]	train-rmse:7.06461	valid-rmse:7.06226
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:3.44851	valid-rmse:3.4511
+[100]	train-rmse:3.43945	valid-rmse:3.44636
+[150]	train-rmse:3.43403	valid-rmse:3.44501
+[200]	train-rmse:3.42913	valid-rmse:3.44424
+Stopping. Best iteration:
+[229]	train-rmse:3.42663	valid-rmse:3.44409
+[0]	train-rmse:7.06518	valid-rmse:7.05891
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:3.44779	valid-rmse:3.45536
+[100]	train-rmse:3.43824	valid-rmse:3.45023
+[150]	train-rmse:3.43276	valid-rmse:3.44877
+[200]	train-rmse:3.42812	valid-rmse:3.44805
+Stopping. Best iteration:
+[232]	train-rmse:3.42565	valid-rmse:3.4478
+ps_ind_16_bin
+[0]	train-rmse:0.494076	valid-rmse:0.494067
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.463288	valid-rmse:0.463676
+[100]	train-rmse:0.462255	valid-rmse:0.463259
+Stopping. Best iteration:
+[131]	train-rmse:0.461803	valid-rmse:0.46318
+[0]	train-rmse:0.494102	valid-rmse:0.49406
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.463372	valid-rmse:0.463585
+[100]	train-rmse:0.462374	valid-rmse:0.463123
+[150]	train-rmse:0.461683	valid-rmse:0.462992
+[200]	train-rmse:0.461061	valid-rmse:0.462944
+[250]	train-rmse:0.460528	valid-rmse:0.462893
+Stopping. Best iteration:
+[249]	train-rmse:0.460536	valid-rmse:0.462892
+[0]	train-rmse:0.494089	valid-rmse:0.49408
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.463367	valid-rmse:0.4637
+[100]	train-rmse:0.46236	valid-rmse:0.463249
+[150]	train-rmse:0.461679	valid-rmse:0.463097
+[200]	train-rmse:0.461067	valid-rmse:0.46301
+[250]	train-rmse:0.460486	valid-rmse:0.46295
+Stopping. Best iteration:
+[277]	train-rmse:0.460176	valid-rmse:0.462931
+[0]	train-rmse:0.493873	valid-rmse:0.493937
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.463224	valid-rmse:0.464388
+[100]	train-rmse:0.462163	valid-rmse:0.463938
+[150]	train-rmse:0.461491	valid-rmse:0.463808
+[200]	train-rmse:0.460876	valid-rmse:0.463741
+Stopping. Best iteration:
+[234]	train-rmse:0.460509	valid-rmse:0.463713
+[0]	train-rmse:0.493866	valid-rmse:0.493945
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.463218	valid-rmse:0.464492
+[100]	train-rmse:0.462166	valid-rmse:0.463997
+[150]	train-rmse:0.461477	valid-rmse:0.463861
+Stopping. Best iteration:
+[182]	train-rmse:0.461103	valid-rmse:0.463792
+ps_ind_17_bin
+[0]	train-rmse:0.471022	valid-rmse:0.471068
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.316995	valid-rmse:0.317902
+[100]	train-rmse:0.316339	valid-rmse:0.317698
+[150]	train-rmse:0.315881	valid-rmse:0.317629
+Stopping. Best iteration:
+[154]	train-rmse:0.315851	valid-rmse:0.317624
+[0]	train-rmse:0.471044	valid-rmse:0.470988
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.317262	valid-rmse:0.316875
+[100]	train-rmse:0.316609	valid-rmse:0.316669
+Stopping. Best iteration:
+[105]	train-rmse:0.316549	valid-rmse:0.316659
+[0]	train-rmse:0.471031	valid-rmse:0.471036
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.317131	valid-rmse:0.317434
+[100]	train-rmse:0.316464	valid-rmse:0.317185
+[150]	train-rmse:0.315969	valid-rmse:0.317102
+[200]	train-rmse:0.315578	valid-rmse:0.317063
+Stopping. Best iteration:
+[194]	train-rmse:0.315621	valid-rmse:0.317062
+[0]	train-rmse:0.471129	valid-rmse:0.471101
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.317091	valid-rmse:0.317453
+[100]	train-rmse:0.316399	valid-rmse:0.317241
+[150]	train-rmse:0.31591	valid-rmse:0.317178
+Stopping. Best iteration:
+[147]	train-rmse:0.315933	valid-rmse:0.317174
+[0]	train-rmse:0.471093	valid-rmse:0.471179
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.316875	valid-rmse:0.318383
+[100]	train-rmse:0.316195	valid-rmse:0.318164
+[150]	train-rmse:0.315713	valid-rmse:0.318101
+Stopping. Best iteration:
+[183]	train-rmse:0.315423	valid-rmse:0.318078
+ps_ind_18_bin
+[0]	train-rmse:0.476429	valid-rmse:0.476354
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.356081	valid-rmse:0.35556
+[100]	train-rmse:0.355382	valid-rmse:0.355331
+Stopping. Best iteration:
+[129]	train-rmse:0.35508	valid-rmse:0.355285
+[0]	train-rmse:0.47642	valid-rmse:0.476413
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.355879	valid-rmse:0.356422
+[100]	train-rmse:0.355147	valid-rmse:0.356174
+Stopping. Best iteration:
+[129]	train-rmse:0.354874	valid-rmse:0.35614
+[0]	train-rmse:0.476386	valid-rmse:0.476463
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.355735	valid-rmse:0.35699
+[100]	train-rmse:0.355056	valid-rmse:0.356776
+[150]	train-rmse:0.354568	valid-rmse:0.356713
+Stopping. Best iteration:
+[158]	train-rmse:0.354503	valid-rmse:0.356707
+[0]	train-rmse:0.476282	valid-rmse:0.476309
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.355822	valid-rmse:0.356587
+[100]	train-rmse:0.35508	valid-rmse:0.356371
+[150]	train-rmse:0.354566	valid-rmse:0.356301
+Stopping. Best iteration:
+[169]	train-rmse:0.35439	valid-rmse:0.356281
+[0]	train-rmse:0.476268	valid-rmse:0.476317
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.355783	valid-rmse:0.356755
+[100]	train-rmse:0.355052	valid-rmse:0.356517
+[150]	train-rmse:0.354587	valid-rmse:0.356463
+Stopping. Best iteration:
+[154]	train-rmse:0.354553	valid-rmse:0.356458
+ps_reg_01
+[0]	train-rmse:0.30157	valid-rmse:0.301359
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.259349	valid-rmse:0.259524
+[100]	train-rmse:0.256418	valid-rmse:0.256953
+[150]	train-rmse:0.255242	valid-rmse:0.256094
+[200]	train-rmse:0.254523	valid-rmse:0.255712
+[250]	train-rmse:0.253962	valid-rmse:0.255451
+[300]	train-rmse:0.253492	valid-rmse:0.255282
+[350]	train-rmse:0.253124	valid-rmse:0.255202
+[400]	train-rmse:0.252784	valid-rmse:0.255136
+[450]	train-rmse:0.252446	valid-rmse:0.255075
+[0]	train-rmse:0.301543	valid-rmse:0.301475
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.259576	valid-rmse:0.259834
+[100]	train-rmse:0.256528	valid-rmse:0.257059
+[150]	train-rmse:0.255276	valid-rmse:0.256117
+[200]	train-rmse:0.254531	valid-rmse:0.255652
+[250]	train-rmse:0.253958	valid-rmse:0.25538
+[300]	train-rmse:0.253552	valid-rmse:0.255261
+[350]	train-rmse:0.25312	valid-rmse:0.255123
+[400]	train-rmse:0.252754	valid-rmse:0.255043
+[450]	train-rmse:0.252409	valid-rmse:0.254991
+[0]	train-rmse:0.301412	valid-rmse:0.302016
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.259373	valid-rmse:0.26055
+[100]	train-rmse:0.256417	valid-rmse:0.257898
+[150]	train-rmse:0.255236	valid-rmse:0.257016
+[200]	train-rmse:0.254522	valid-rmse:0.256596
+[250]	train-rmse:0.253953	valid-rmse:0.256316
+[300]	train-rmse:0.253482	valid-rmse:0.256125
+[350]	train-rmse:0.253077	valid-rmse:0.255996
+[400]	train-rmse:0.252739	valid-rmse:0.255916
+[450]	train-rmse:0.252427	valid-rmse:0.255868
+Stopping. Best iteration:
+[450]	train-rmse:0.252427	valid-rmse:0.255868
+[0]	train-rmse:0.301599	valid-rmse:0.301247
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.259433	valid-rmse:0.259338
+[100]	train-rmse:0.25641	valid-rmse:0.256612
+[150]	train-rmse:0.25539	valid-rmse:0.255889
+[200]	train-rmse:0.254625	valid-rmse:0.255432
+[250]	train-rmse:0.254065	valid-rmse:0.25521
+[300]	train-rmse:0.253557	valid-rmse:0.255038
+[350]	train-rmse:0.253145	valid-rmse:0.254937
+[400]	train-rmse:0.252757	valid-rmse:0.25483
+Stopping. Best iteration:
+[424]	train-rmse:0.252599	valid-rmse:0.254814
+[0]	train-rmse:0.301524	valid-rmse:0.301598
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.259471	valid-rmse:0.25955
+[100]	train-rmse:0.256425	valid-rmse:0.256794
+[150]	train-rmse:0.255307	valid-rmse:0.255956
+[200]	train-rmse:0.254576	valid-rmse:0.255517
+[250]	train-rmse:0.254017	valid-rmse:0.25524
+[300]	train-rmse:0.253549	valid-rmse:0.255064
+[350]	train-rmse:0.253196	valid-rmse:0.254985
+[400]	train-rmse:0.252842	valid-rmse:0.254901
+[450]	train-rmse:0.252483	valid-rmse:0.254834
+Stopping. Best iteration:
+[472]	train-rmse:0.252352	valid-rmse:0.254817
+ps_reg_02
+[0]	train-rmse:0.401274	valid-rmse:0.40228
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.355441	valid-rmse:0.356599
+[100]	train-rmse:0.353125	valid-rmse:0.354794
+[150]	train-rmse:0.351907	valid-rmse:0.354092
+[200]	train-rmse:0.351112	valid-rmse:0.353802
+[250]	train-rmse:0.350483	valid-rmse:0.353649
+[300]	train-rmse:0.349951	valid-rmse:0.353573
+[350]	train-rmse:0.349476	valid-rmse:0.353505
+[400]	train-rmse:0.349002	valid-rmse:0.353476
+[450]	train-rmse:0.348562	valid-rmse:0.353421
+Stopping. Best iteration:
+[442]	train-rmse:0.348604	valid-rmse:0.353419
+[0]	train-rmse:0.401444	valid-rmse:0.401526
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.355448	valid-rmse:0.356697
+[100]	train-rmse:0.35315	valid-rmse:0.354908
+[150]	train-rmse:0.352058	valid-rmse:0.354281
+[200]	train-rmse:0.351279	valid-rmse:0.353979
+[250]	train-rmse:0.350609	valid-rmse:0.353769
+[300]	train-rmse:0.350029	valid-rmse:0.353661
+[350]	train-rmse:0.349497	valid-rmse:0.353579
+[400]	train-rmse:0.348996	valid-rmse:0.353529
+Stopping. Best iteration:
+[390]	train-rmse:0.349099	valid-rmse:0.353527
+[0]	train-rmse:0.401484	valid-rmse:0.401431
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.355396	valid-rmse:0.356343
+[100]	train-rmse:0.353182	valid-rmse:0.354758
+[150]	train-rmse:0.352009	valid-rmse:0.354119
+[200]	train-rmse:0.351205	valid-rmse:0.353839
+[250]	train-rmse:0.350571	valid-rmse:0.353669
+[300]	train-rmse:0.350023	valid-rmse:0.353574
+[350]	train-rmse:0.349505	valid-rmse:0.3535
+Stopping. Best iteration:
+[342]	train-rmse:0.349567	valid-rmse:0.3535
+[0]	train-rmse:0.401635	valid-rmse:0.400875
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.355635	valid-rmse:0.355633
+[100]	train-rmse:0.353375	valid-rmse:0.353952
+[150]	train-rmse:0.352178	valid-rmse:0.353323
+[200]	train-rmse:0.351443	valid-rmse:0.353069
+[250]	train-rmse:0.350749	valid-rmse:0.352908
+[300]	train-rmse:0.35016	valid-rmse:0.352798
+[350]	train-rmse:0.349634	valid-rmse:0.35273
+[400]	train-rmse:0.3491	valid-rmse:0.352634
+Stopping. Best iteration:
+[417]	train-rmse:0.348948	valid-rmse:0.352621
+[0]	train-rmse:0.401533	valid-rmse:0.401318
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.355547	valid-rmse:0.355595
+[100]	train-rmse:0.353267	valid-rmse:0.35389
+[150]	train-rmse:0.352109	valid-rmse:0.353317
+[200]	train-rmse:0.351285	valid-rmse:0.353026
+[250]	train-rmse:0.350659	valid-rmse:0.352876
+[300]	train-rmse:0.35009	valid-rmse:0.352756
+[350]	train-rmse:0.34957	valid-rmse:0.352723
+Stopping. Best iteration:
+[342]	train-rmse:0.349638	valid-rmse:0.352713
+ps_reg_03
+[0]	train-rmse:0.785323	valid-rmse:0.786406
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.721066	valid-rmse:0.723094
+[100]	train-rmse:0.715358	valid-rmse:0.718478
+[150]	train-rmse:0.712873	valid-rmse:0.717002
+[200]	train-rmse:0.711234	valid-rmse:0.716251
+[250]	train-rmse:0.70991	valid-rmse:0.715828
+[300]	train-rmse:0.708774	valid-rmse:0.715581
+[350]	train-rmse:0.707848	valid-rmse:0.715464
+Stopping. Best iteration:
+[362]	train-rmse:0.707554	valid-rmse:0.71537
+[0]	train-rmse:0.785645	valid-rmse:0.785115
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.721134	valid-rmse:0.722
+[100]	train-rmse:0.715672	valid-rmse:0.717416
+[150]	train-rmse:0.713123	valid-rmse:0.715778
+[200]	train-rmse:0.711658	valid-rmse:0.715198
+[250]	train-rmse:0.710322	valid-rmse:0.714698
+[300]	train-rmse:0.709258	valid-rmse:0.714491
+[350]	train-rmse:0.708292	valid-rmse:0.714322
+[400]	train-rmse:0.707335	valid-rmse:0.714208
+Stopping. Best iteration:
+[430]	train-rmse:0.706796	valid-rmse:0.714145
+[0]	train-rmse:0.785445	valid-rmse:0.785979
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.720777	valid-rmse:0.722051
+[100]	train-rmse:0.715509	valid-rmse:0.717711
+[150]	train-rmse:0.713085	valid-rmse:0.716215
+[200]	train-rmse:0.711567	valid-rmse:0.71561
+[250]	train-rmse:0.710315	valid-rmse:0.715207
+[300]	train-rmse:0.709222	valid-rmse:0.714949
+[350]	train-rmse:0.708245	valid-rmse:0.714768
+[400]	train-rmse:0.707284	valid-rmse:0.714674
+Stopping. Best iteration:
+[390]	train-rmse:0.707435	valid-rmse:0.714669
+[0]	train-rmse:0.785853	valid-rmse:0.784344
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.721202	valid-rmse:0.720261
+[100]	train-rmse:0.716023	valid-rmse:0.716053
+[150]	train-rmse:0.713567	valid-rmse:0.714561
+[200]	train-rmse:0.711993	valid-rmse:0.713866
+[250]	train-rmse:0.710792	valid-rmse:0.71352
+[300]	train-rmse:0.709519	valid-rmse:0.713195
+[350]	train-rmse:0.708513	valid-rmse:0.713023
+[400]	train-rmse:0.707627	valid-rmse:0.71287
+Stopping. Best iteration:
+[410]	train-rmse:0.70748	valid-rmse:0.712859
+[0]	train-rmse:0.78546	valid-rmse:0.785955
+Multiple eval metrics have been passed: 'valid-rmse' will be used for early stopping.
+Will train until valid-rmse hasn't improved in 10 rounds.
+[50]	train-rmse:0.720725	valid-rmse:0.722327
+[100]	train-rmse:0.715393	valid-rmse:0.718014
+[150]	train-rmse:0.712918	valid-rmse:0.716499
+[200]	train-rmse:0.711271	valid-rmse:0.715733
+[250]	train-rmse:0.709992	valid-rmse:0.715347
+[300]	train-rmse:0.708874	valid-rmse:0.715144
+[350]	train-rmse:0.707861	valid-rmse:0.71497
+[400]	train-rmse:0.706868	valid-rmse:0.714831
+Stopping. Best iteration:
+[394]	train-rmse:0.706978	valid-rmse:0.71483
