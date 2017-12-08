@@ -1,0 +1,655 @@
+Backend TkAgg is interactive backend. Turning interactive mode on.
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.29016
+[200]	valid_0's gini: 0.29583
+[300]	valid_0's gini: 0.296411
+[400]	valid_0's gini: 0.295307
+Early stopping, best iteration is:
+[308]	valid_0's gini: 0.296555
+0.296555148603
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.27279
+[200]	valid_0's gini: 0.274842
+[300]	valid_0's gini: 0.274604
+Early stopping, best iteration is:
+[222]	valid_0's gini: 0.275273
+0.275272588751
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.280488
+[200]	valid_0's gini: 0.283318
+[300]	valid_0's gini: 0.283631
+Early stopping, best iteration is:
+[256]	valid_0's gini: 0.284274
+0.284273661878
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.282058
+[200]	valid_0's gini: 0.285317
+Early stopping, best iteration is:
+[160]	valid_0's gini: 0.285727
+0.285727231934
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.293137
+[200]	valid_0's gini: 0.295751
+Early stopping, best iteration is:
+[197]	valid_0's gini: 0.295822
+0.295821862903
+cv score:
+0.287473585227
+current score: 0.287473585227 1
+[0.29655514860321985, 0.27527258875061639, 0.28427366187759245, 0.28572723193368538, 0.29582186290347945]
+[308, 222, 256, 160, 197] 228.6
+
+
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.290978
+[200]	valid_0's gini: 0.297026
+[300]	valid_0's gini: 0.297356
+Early stopping, best iteration is:
+[204]	valid_0's gini: 0.297656
+0.297655765999
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.273196
+[200]	valid_0's gini: 0.275259
+[300]	valid_0's gini: 0.274808
+Early stopping, best iteration is:
+[236]	valid_0's gini: 0.276639
+0.276639205394
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.278739
+[200]	valid_0's gini: 0.283355
+[300]	valid_0's gini: 0.283084
+Early stopping, best iteration is:
+[237]	valid_0's gini: 0.283799
+0.28379868561
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.280004
+[200]	valid_0's gini: 0.28465
+[300]	valid_0's gini: 0.2834
+Early stopping, best iteration is:
+[222]	valid_0's gini: 0.285661
+0.285660592903
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.292752
+[200]	valid_0's gini: 0.294915
+Early stopping, best iteration is:
+[173]	valid_0's gini: 0.295973
+0.295973359659
+cv score:
+0.287800837991
+current score: 0.288922143143 2
+[0.29765576599923144, 0.27663920539417569, 0.28379868560993016, 0.28566059290328227, 0.29597335965874338]
+[204, 236, 237, 222, 173] 214.4
+
+
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.291285
+[200]	valid_0's gini: 0.296178
+[300]	valid_0's gini: 0.296681
+Early stopping, best iteration is:
+[248]	valid_0's gini: 0.297242
+0.297241750069
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.27311
+[200]	valid_0's gini: 0.277214
+[300]	valid_0's gini: 0.276231
+Early stopping, best iteration is:
+[201]	valid_0's gini: 0.277368
+0.27736825808
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.279119
+[200]	valid_0's gini: 0.284792
+[300]	valid_0's gini: 0.282538
+Early stopping, best iteration is:
+[224]	valid_0's gini: 0.285172
+0.285172033207
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.280696
+[200]	valid_0's gini: 0.28504
+[300]	valid_0's gini: 0.285443
+Early stopping, best iteration is:
+[249]	valid_0's gini: 0.28634
+0.286340473361
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.291927
+[200]	valid_0's gini: 0.294037
+Early stopping, best iteration is:
+[199]	valid_0's gini: 0.294321
+0.294320573509
+cv score:
+0.288031958649
+current score: 0.289461972452 3
+[0.29724175006914189, 0.27736825808001342, 0.28517203320704482, 0.28634047336138913, 0.29432057350897212]
+[248, 201, 224, 249, 199] 224.2
+
+
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.290046
+[200]	valid_0's gini: 0.295251
+[300]	valid_0's gini: 0.295311
+Early stopping, best iteration is:
+[244]	valid_0's gini: 0.295998
+0.295997974333
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.271836
+[200]	valid_0's gini: 0.274385
+[300]	valid_0's gini: 0.274696
+Early stopping, best iteration is:
+[219]	valid_0's gini: 0.275818
+0.275817779915
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.279394
+[200]	valid_0's gini: 0.283152
+[300]	valid_0's gini: 0.281919
+Early stopping, best iteration is:
+[226]	valid_0's gini: 0.283907
+0.283907276988
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.279487
+[200]	valid_0's gini: 0.283841
+[300]	valid_0's gini: 0.284008
+Early stopping, best iteration is:
+[227]	valid_0's gini: 0.284791
+0.28479062866
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.292825
+[200]	valid_0's gini: 0.296481
+Early stopping, best iteration is:
+[153]	valid_0's gini: 0.296595
+0.296594568303
+cv score:
+0.28727516247
+current score: 0.289514016434 4
+[0.29599797433258768, 0.27581777991468026, 0.28390727698779644, 0.28479062865960486, 0.29659456830332165]
+[244, 219, 226, 227, 153] 213.8
+
+
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.291697
+[200]	valid_0's gini: 0.295459
+[300]	valid_0's gini: 0.295776
+Early stopping, best iteration is:
+[219]	valid_0's gini: 0.296354
+0.296354128173
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.271759
+[200]	valid_0's gini: 0.273476
+Early stopping, best iteration is:
+[194]	valid_0's gini: 0.273654
+0.273654310795
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.281401
+[200]	valid_0's gini: 0.28566
+[300]	valid_0's gini: 0.286012
+[400]	valid_0's gini: 0.28446
+Early stopping, best iteration is:
+[328]	valid_0's gini: 0.286446
+0.286445569805
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.280641
+[200]	valid_0's gini: 0.285305
+Early stopping, best iteration is:
+[199]	valid_0's gini: 0.285472
+0.285471738783
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.291265
+[200]	valid_0's gini: 0.294728
+Early stopping, best iteration is:
+[189]	valid_0's gini: 0.295252
+0.295252396524
+cv score:
+0.287341414894
+current score: 0.289608944222 5
+[0.29635412817297957, 0.27365431079520219, 0.28644556980451313, 0.28547173878323068, 0.29525239652444235]
+[219, 194, 328, 199, 189] 225.8
+
+
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.291408
+[200]	valid_0's gini: 0.295143
+[300]	valid_0's gini: 0.296771
+Early stopping, best iteration is:
+[241]	valid_0's gini: 0.297036
+0.297035991851
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.271805
+[200]	valid_0's gini: 0.2759
+Early stopping, best iteration is:
+[199]	valid_0's gini: 0.276035
+0.276034512601
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.280819
+[200]	valid_0's gini: 0.283981
+[300]	valid_0's gini: 0.283478
+Early stopping, best iteration is:
+[213]	valid_0's gini: 0.284441
+0.28444142537
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.280187
+[200]	valid_0's gini: 0.283376
+[300]	valid_0's gini: 0.283916
+Early stopping, best iteration is:
+[239]	valid_0's gini: 0.285193
+0.285193432524
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.293524
+[200]	valid_0's gini: 0.295576
+[300]	valid_0's gini: 0.29558
+Early stopping, best iteration is:
+[244]	valid_0's gini: 0.296542
+0.296541648342
+cv score:
+0.287810786311
+current score: 0.289741891607 6
+[0.2970359918512947, 0.27603451260068262, 0.28444142536954981, 0.2851934325244363, 0.29654164834153213]
+[241, 199, 213, 239, 244] 227.2
+
+
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.289171
+[200]	valid_0's gini: 0.294601
+[300]	valid_0's gini: 0.296348
+[400]	valid_0's gini: 0.296063
+Early stopping, best iteration is:
+[306]	valid_0's gini: 0.29659
+0.296589812009
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.273206
+[200]	valid_0's gini: 0.275627
+[300]	valid_0's gini: 0.274121
+Early stopping, best iteration is:
+[251]	valid_0's gini: 0.27599
+0.275989943642
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.280644
+[200]	valid_0's gini: 0.284072
+Early stopping, best iteration is:
+[177]	valid_0's gini: 0.284434
+0.284433814369
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.281558
+[200]	valid_0's gini: 0.286404
+[300]	valid_0's gini: 0.283888
+Early stopping, best iteration is:
+[213]	valid_0's gini: 0.286808
+0.286807750277
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.294002
+[200]	valid_0's gini: 0.297547
+Early stopping, best iteration is:
+[159]	valid_0's gini: 0.298124
+0.2981237486
+cv score:
+0.288267379937
+current score: 0.289918061974 7
+[0.29658981200940987, 0.27598994364194684, 0.28443381436893261, 0.28680775027716343, 0.29812374859976237]
+[306, 251, 177, 213, 159] 221.2
+
+
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.292053
+[200]	valid_0's gini: 0.295591
+[300]	valid_0's gini: 0.296351
+Early stopping, best iteration is:
+[259]	valid_0's gini: 0.296709
+0.296709108617
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.271821
+[200]	valid_0's gini: 0.274786
+[300]	valid_0's gini: 0.273065
+Early stopping, best iteration is:
+[236]	valid_0's gini: 0.275514
+0.275514223956
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.278795
+[200]	valid_0's gini: 0.281922
+[300]	valid_0's gini: 0.280366
+Early stopping, best iteration is:
+[209]	valid_0's gini: 0.282238
+0.282237570529
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.281313
+[200]	valid_0's gini: 0.28531
+[300]	valid_0's gini: 0.285208
+Early stopping, best iteration is:
+[247]	valid_0's gini: 0.286339
+0.286338669048
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.29206
+[200]	valid_0's gini: 0.295028
+[300]	valid_0's gini: 0.295608
+Early stopping, best iteration is:
+[229]	valid_0's gini: 0.296327
+0.29632748046
+cv score:
+0.287365791558
+current score: 0.289926917375 8
+[0.29670910861728905, 0.2755142239555336, 0.28223757052873966, 0.28633866904825817, 0.29632748046032104]
+[259, 236, 209, 247, 229] 236.0
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.292933
+[200]	valid_0's gini: 0.297078
+[300]	valid_0's gini: 0.296124
+Early stopping, best iteration is:
+[200]	valid_0's gini: 0.297078
+0.29707754695
+
+
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.270512
+[200]	valid_0's gini: 0.272966
+[300]	valid_0's gini: 0.27377
+Early stopping, best iteration is:
+[297]	valid_0's gini: 0.273981
+0.273981121697
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.279911
+[200]	valid_0's gini: 0.28333
+Early stopping, best iteration is:
+[184]	valid_0's gini: 0.283788
+0.283787936177
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.281457
+[200]	valid_0's gini: 0.285242
+[300]	valid_0's gini: 0.284441
+Early stopping, best iteration is:
+[274]	valid_0's gini: 0.285936
+0.285935668276
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.2934
+[200]	valid_0's gini: 0.29679
+[300]	valid_0's gini: 0.296305
+Early stopping, best iteration is:
+[216]	valid_0's gini: 0.297471
+0.297470782351
+cv score:
+0.287500896973
+current score: 0.289981447955 9
+[0.29707754695022942, 0.27398112169657252, 0.28378793617664028, 0.28593566827620298, 0.29747078235089291]
+[200, 297, 184, 274, 216] 234.2
+
+
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.290109
+[200]	valid_0's gini: 0.294368
+[300]	valid_0's gini: 0.294165
+Early stopping, best iteration is:
+[252]	valid_0's gini: 0.295552
+0.295551870842
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.273261
+[200]	valid_0's gini: 0.274413
+[300]	valid_0's gini: 0.274529
+Early stopping, best iteration is:
+[240]	valid_0's gini: 0.275176
+0.275176309995
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.282802
+[200]	valid_0's gini: 0.286627
+Early stopping, best iteration is:
+[197]	valid_0's gini: 0.286719
+0.286719224256
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.280748
+[200]	valid_0's gini: 0.284862
+[300]	valid_0's gini: 0.284326
+Early stopping, best iteration is:
+[251]	valid_0's gini: 0.285439
+0.28543884724
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.29383
+[200]	valid_0's gini: 0.297844
+[300]	valid_0's gini: 0.295057
+Early stopping, best iteration is:
+[210]	valid_0's gini: 0.297859
+0.297858706652
+cv score:
+0.288055631401
+current score: 0.290038059086 10
+[0.29555187084181778, 0.2751763099946567, 0.28671922425595509, 0.28543884723985202, 0.29785870665229208]
+[252, 240, 197, 251, 210] 230.0
+
+
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.290949
+[200]	valid_0's gini: 0.295389
+[300]	valid_0's gini: 0.296978
+[400]	valid_0's gini: 0.297438
+Early stopping, best iteration is:
+[389]	valid_0's gini: 0.298185
+0.298184963614
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.273684
+[200]	valid_0's gini: 0.274786
+Early stopping, best iteration is:
+[155]	valid_0's gini: 0.275737
+0.27573696025
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.280146
+[200]	valid_0's gini: 0.283126
+Early stopping, best iteration is:
+[179]	valid_0's gini: 0.283781
+0.28378129363
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.279493
+[200]	valid_0's gini: 0.282649
+[300]	valid_0's gini: 0.283315
+Early stopping, best iteration is:
+[267]	valid_0's gini: 0.284394
+0.284394366937
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.292443
+[200]	valid_0's gini: 0.296332
+Early stopping, best iteration is:
+[172]	valid_0's gini: 0.296587
+0.29658711224
+cv score:
+0.287665985913
+current score: 0.290088562146 11
+[0.29818496361395191, 0.27573696025025929, 0.28378129362963911, 0.28439436693681613, 0.29658711224004353]
+[389, 155, 179, 267, 172] 232.4
+
+
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.290833
+[200]	valid_0's gini: 0.294797
+[300]	valid_0's gini: 0.294539
+Early stopping, best iteration is:
+[210]	valid_0's gini: 0.295421
+0.295421398842
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.270526
+[200]	valid_0's gini: 0.27287
+[300]	valid_0's gini: 0.271963
+Early stopping, best iteration is:
+[234]	valid_0's gini: 0.273191
+0.273191269412
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.281019
+[200]	valid_0's gini: 0.282837
+Early stopping, best iteration is:
+[138]	valid_0's gini: 0.283825
+0.283824552564
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.279533
+[200]	valid_0's gini: 0.283164
+[300]	valid_0's gini: 0.283805
+Early stopping, best iteration is:
+[255]	valid_0's gini: 0.284785
+0.284785139368
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.293733
+[200]	valid_0's gini: 0.297272
+Early stopping, best iteration is:
+[157]	valid_0's gini: 0.297558
+0.297557618357
+cv score:
+0.286766753283
+current score: 0.290022313419 12
+[0.29542139884179691, 0.27319126941235133, 0.28382455256398137, 0.28478513936843125, 0.29755761835685518]
+[210, 234, 138, 255, 157] 198.8
+
+
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.291718
+[200]	valid_0's gini: 0.295412
+[300]	valid_0's gini: 0.295986
+[400]	valid_0's gini: 0.293471
+Early stopping, best iteration is:
+[306]	valid_0's gini: 0.296318
+0.296318227075
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.273016
+[200]	valid_0's gini: 0.274995
+[300]	valid_0's gini: 0.274225
+Early stopping, best iteration is:
+[223]	valid_0's gini: 0.275475
+0.275475216573
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.278447
+[200]	valid_0's gini: 0.2841
+[300]	valid_0's gini: 0.283498
+Early stopping, best iteration is:
+[255]	valid_0's gini: 0.284473
+0.284473295932
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.278931
+[200]	valid_0's gini: 0.283231
+[300]	valid_0's gini: 0.282868
+Early stopping, best iteration is:
+[219]	valid_0's gini: 0.283789
+0.283788985724
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.292164
+[200]	valid_0's gini: 0.295085
+[300]	valid_0's gini: 0.294584
+Early stopping, best iteration is:
+[240]	valid_0's gini: 0.296088
+0.296087893633
+cv score:
+0.287190549988
+current score: 0.29001055589 13
+[0.29631822707503114, 0.27547521657275054, 0.2844732959323244, 0.28378898572399919, 0.29608789363346533]
+[306, 223, 255, 219, 240] 248.6
+
+
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.290116
+[200]	valid_0's gini: 0.295602
+[300]	valid_0's gini: 0.297494
+Early stopping, best iteration is:
+[286]	valid_0's gini: 0.298132
+0.298132454139
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.272427
+[200]	valid_0's gini: 0.276335
+[300]	valid_0's gini: 0.275376
+Early stopping, best iteration is:
+[208]	valid_0's gini: 0.276783
+0.2767825084
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.279191
+[200]	valid_0's gini: 0.280874
+Early stopping, best iteration is:
+[183]	valid_0's gini: 0.281482
+0.281481674398
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.281429
+[200]	valid_0's gini: 0.286575
+Early stopping, best iteration is:
+[197]	valid_0's gini: 0.286709
+0.286709429276
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.292599
+[200]	valid_0's gini: 0.297233
+Early stopping, best iteration is:
+[187]	valid_0's gini: 0.297405
+0.297405064489
+cv score:
+0.288042633868
+current score: 0.290036892704 14
+[0.29813245413926071, 0.27678250839998891, 0.28148167439827521, 0.28670942927632703, 0.29740506448857651]
+[286, 208, 183, 197, 187] 212.2
+
+
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.290697
+[200]	valid_0's gini: 0.294928
+[300]	valid_0's gini: 0.295916
+Early stopping, best iteration is:
+[273]	valid_0's gini: 0.296492
+0.296491736993
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.271765
+[200]	valid_0's gini: 0.275777
+[300]	valid_0's gini: 0.275711
+Early stopping, best iteration is:
+[242]	valid_0's gini: 0.276604
+0.276604365175
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.280943
+[200]	valid_0's gini: 0.284207
+[300]	valid_0's gini: 0.28355
+Early stopping, best iteration is:
+[215]	valid_0's gini: 0.284727
+0.284727227685
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.28267
+[200]	valid_0's gini: 0.286195
+Early stopping, best iteration is:
+[188]	valid_0's gini: 0.286737
+0.286736562288
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.291922
+[200]	valid_0's gini: 0.293474
+Early stopping, best iteration is:
+[145]	valid_0's gini: 0.294807
+0.29480681334
+cv score:
+0.28775436872
+current score: 0.290054825979 15
+[0.29649173699300885, 0.2766043651748773, 0.28472722768522929, 0.28673656228804273, 0.29480681334017295]
+[273, 242, 215, 188, 145] 212.6
+
+
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.289502
+[200]	valid_0's gini: 0.294878
+Early stopping, best iteration is:
+[164]	valid_0's gini: 0.295012
+0.29501190772
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.272172
+[200]	valid_0's gini: 0.274859
+[300]	valid_0's gini: 0.274319
+Early stopping, best iteration is:
+[200]	valid_0's gini: 0.274859
+0.27485923587
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.280245
+[200]	valid_0's gini: 0.285465
+[300]	valid_0's gini: 0.284852
+Early stopping, best iteration is:
+[217]	valid_0's gini: 0.285876
+0.285875898062
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.28244
+[200]	valid_0's gini: 0.286056
+[300]	valid_0's gini: 0.286983
+[400]	valid_0's gini: 0.28494
+Early stopping, best iteration is:
+[313]	valid_0's gini: 0.287205
+0.28720460674
+Training until validation scores don't improve for 100 rounds.
+[100]	valid_0's gini: 0.29279
+[200]	valid_0's gini: 0.296011
+Early stopping, best iteration is:
+[144]	valid_0's gini: 0.296613
+0.296612555302
+cv score:
+0.287751109089
+current score: 0.290089957753 16
+[0.29501190771988844, 0.27485923586968303, 0.2858758980619065, 0.28720460674013781, 0.29661255530233477]
+[164, 200, 217, 313, 144] 207.6
+
+[0.2874735852270619, 0.28780083799120931, 0.28803195864942138, 0.28727516247002327, 0.28734141489398241, 0.28781078631140566, 0.28826737993713414, 0.28736579155770609, 0.28750089697316794, 0.28805563140133417, 0.28766598591327053, 0.28676675328346252, 0.28719054998776705, 0.28804263386827239, 0.28775436872014887, 0.28775110908925189]
+
