@@ -1,4 +1,4 @@
-# 一个比较优雅清新的xgb示例，from https://www.kaggle.com/xbf6xbf/single-xgb-lb284/code
+# 一个比较优雅清新的xgb，from https://www.kaggle.com/xbf6xbf/single-xgb-lb284/code
 
 # This Python 3 environment comes with many helpful analytics libraries installed
 # It is defined by the kaggle/python docker image: https://github.com/kaggle/docker-python
